@@ -18,9 +18,9 @@ Author: Lando⊗⊙perator
 from __future__ import annotations
 from typing import NamedTuple
 
-PRIM_KEYS = ["D","T","R","Phi","f","C","Gamma","G","Phi_c","H","Sigma","Omega"]
-DISCRIMINANT_KEYS = ["T","C","Gamma","G","Phi_c","H","Sigma","Omega"]
-INVARIANT = {"D":"𐑦","R":"𐑾","Phi":"𐑯","f":"𐑞"}
+PRIM_KEYS = ["Ð","Þ","Ř","Φ","ƒ","Ç","Γ","ɢ","⊙","Ħ","Σ","Ω"]
+DISCRIMINANT_KEYS = ["Þ","Ç","Γ","ɢ","⊙","Ħ","Σ","Ω"]
+INVARIANT = {"Ð":"𐑦","Ř":"𐑾","Φ":"𐑯","ƒ":"𐑞"}
 
 
 class AnimalType(NamedTuple):

@@ -52,7 +52,7 @@ Every tuple is algorithmically imscribed via the deterministic procedure. Zero t
 
 ## Canonical Types
 
-| # | Type | Tier | T | C | Γ | G | φ̂ | H | Σ | Ω | Reps |
+| # | Type | Tier | Þ | Ç | Γ | ɢ | ⊙ | Ħ | Σ | Ω | Reps |
 |---|------|------|---|---|---|---|---|---|---|---|---|------|
 | I | Ophidian Venom | O₂† | 𐑡 | 𐑘 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑕 | 𐑴 | 6 |
 | II | Amphibian Dermal | O₂ | 𐑸 | 𐑧 | 𐑔 | 𐑠 | ⊙ | 𐑫 | 𐑳 | 𐑭 | 5 |
@@ -77,10 +77,10 @@ Every tuple is algorithmically imscribed via the deterministic procedure. Zero t
 
 | Primitive | Value | Meaning |
 |-----------|-------|---------|
-| D | 𐑦 | Imscriptive dimensionality — the animal body IS its pharmaceutical program |
-| R | 𐑾 | Bidirectional coupling — venom/extract delivery and organism response form a feedback loop |
-| Phi | 𐑯 | Full symmetry — all compound classes are present at once; the animal does not selectively deploy |
-| f | 𐑞 | Thermal fidelity — body-temperature biochemistry with thermal noise |
+| Ð | 𐑦 | Imscriptive dimensionality — the animal body IS its pharmaceutical program |
+| Ř | 𐑾 | Bidirectional coupling — venom/extract delivery and organism response form a feedback loop |
+| Φ | 𐑯 | Full symmetry — all compound classes are present at once; the animal does not selectively deploy |
+| ƒ | 𐑞 | Thermal fidelity — body-temperature biochemistry with thermal noise |
 
 These differ from Ars Fungiglyphica's invariants: animals have fully symmetric compound deployment (Phi=𑑯 vs 𑑬 for fungi) and thermal fidelity (f=𑑞 vs 𑑱). The grammar correctly captures the physiological difference between ambient-temperature fungi and warm-blooded (or ambient-active) animals.
 
@@ -90,12 +90,12 @@ These differ from Ars Fungiglyphica's invariants: animals have fully symmetric c
 
 | Primitive | What It Encodes |
 |-----------|----------------|
-| **T** (Topology) | Body plan / delivery apparatus → venom/extract delivery architecture |
-| **C** (Kinetics) | Delivery speed → instantaneous bolus vs slow activated release |
+| **Þ** (Topology) | Body plan / delivery apparatus → venom/extract delivery architecture |
+| **Ç** (Kinetics) | Delivery speed → instantaneous bolus vs slow activated release |
 | **Γ** (Granularity) | Tissue specialization → fine (specialized organ) vs medium (distributed) |
-| **G** (Composition) | Compound delivery mode → sequential, broadcast, or conjunctive |
-| **φ̂** (Criticality) | Aposematic self-modeling → warning coloration, threat display, morphological self-report |
-| **H** (Chirality) | Compound complexity → disulfide-rich peptides (eternal) vs simple lipids (two-step) |
+| **ɢ** (Composition) | Compound delivery mode → sequential, broadcast, or conjunctive |
+| **⊙** (Criticality) | Aposematic self-modeling → warning coloration, threat display, morphological self-report |
+| **Ħ** (Chirality) | Compound complexity → disulfide-rich peptides (eternal) vs simple lipids (two-step) |
 | **Σ** (Stoichiometry) | Compound class diversity → few (1:1 peptide toxins) vs many (heterogeneous venom) |
 | **Ω** (Winding) | Processing cycles → single-pass, binary (lyophilization+reconstitution), integer (multi-step) |
 
@@ -155,8 +155,8 @@ Key (type number → name):
 | Ophidian ≈ Molluscan | 1 | Only T differs (𑑡 network vs 𑑰 containment). Both: fast bolus, fine tissue, sequential multi-component, eternal chirality, few compound classes, binary processing. The harpoon *is* a fang, structurally |
 | Cnidarian ≈ Ophidian | 1 | Only T differs (𑑥 bowtie vs 𑑡 network). Both: millisecond delivery, sequential action, eternal chirality, binary processing |
 | Reptilian ≈ Arthropod | 1 | Only T differs (𑑡 network vs 𑑶 box-product). Grooved teeth and exoskeletal venom apparatus are structurally adjacent |
-| Amphibian ≈ Echinoderm | 1 | Only G differs (𑑠 sequential vs 𑑵 broadcast). Dermal granular glands and body-wall saponins differ only in release pattern |
-| Ophidian vs Fish | 8 | Maximum distance. Fast bolus venom (O₂†, 𑑘/𑑲/𑑠/⊙/𑑫/𑑕/𑑴) vs slow structural lipid (O₁, 𑑧/𑑔/𑑵/𑑢/𑑖/𑑙/𑑷) — no shared discriminant primitives beyond invariants |
+| Amphibian ≈ Echinoderm | 1 | Only G differs (𐑠 sequential vs 𑑵 broadcast). Dermal granular glands and body-wall saponins differ only in release pattern |
+| Ophidian vs Fish | 8 | Maximum distance. Fast bolus venom (O₂†, 𑑘/𑑲/𐑠/⊙/𐑫/𑑕/𑑴) vs slow structural lipid (O₁, 𑑧/𑑔/𑑵/𑑢/𑑖/𑑙/𑑷) — no shared discriminant primitives beyond invariants |
 
 ---
 

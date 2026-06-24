@@ -28,7 +28,7 @@ def _hamming(tup_a, tup_b) -> int:
 
 def cmd_types(_args) -> int:
     width = 80
-    disc = ["T","C","Gamma","G","Phi_c","H","Sigma","Omega"]
+    disc = ["Þ","Ç","Γ","ɢ","⊙","Ħ","Σ","Ω"]
     print("=" * width)
     print("  ARS ANIMAGLYPHICA — 14 CANONICAL ANIMAL TYPES")
     print("-" * width)
