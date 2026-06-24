@@ -18,6 +18,38 @@ Every tuple is algorithmically imscribed via the deterministic procedure. Zero t
 
 ---
 
+## Type Gallery
+
+<p align="center">
+<img src="images/I_Ophidian_Venom.jpg" width="200" alt="I. Ophidian Venom" title="I. Ophidian Venom — Vipera ammodytes"/>
+<img src="images/II_Amphibian_Dermal.jpg" width="200" alt="II. Amphibian Dermal" title="II. Amphibian Dermal — Dendrobates tinctorius"/>
+<img src="images/III_Arthropod_Exoskeletal.jpg" width="200" alt="III. Arthropod Exoskeletal" title="III. Arthropod Exoskeletal — Buthus paris"/>
+<img src="images/IV_Molluscan_Harpoon.jpg" width="200" alt="IV. Molluscan Harpoon" title="IV. Molluscan Harpoon — Conus textile"/>
+<img src="images/V_Marine_Sessile_Defense.jpg" width="200" alt="V. Marine Sessile Defense" title="V. Marine Sessile Defense — Aplysina gerardogreeni"/>
+</p>
+<p align="center"><sub><b>I.</b> Ophidian Venom &nbsp;|&nbsp; <b>II.</b> Amphibian Dermal &nbsp;|&nbsp; <b>III.</b> Arthropod Exoskeletal &nbsp;|&nbsp; <b>IV.</b> Molluscan Harpoon &nbsp;|&nbsp; <b>V.</b> Marine Sessile Defense</sub></p>
+
+<p align="center">
+<img src="images/VI_Mammalian_Glandular.jpg" width="200" alt="VI. Mammalian Glandular" title="VI. Mammalian Glandular — Ornithorhynchus anatinus"/>
+<img src="images/VII_Fish_Structural.jpg" width="200" alt="VII. Fish Structural" title="VII. Fish Structural — Synanceia nana"/>
+<img src="images/VIII_Hymenopteran_Venom.jpg" width="200" alt="VIII. Hymenopteran Venom" title="VIII. Hymenopteran Venom — Apis mellifera"/>
+<img src="images/IX_Annelid_Anticoagulant.jpg" width="200" alt="IX. Annelid Anticoagulant" title="IX. Annelid Anticoagulant — Hirudo medicinalis"/>
+<img src="images/X_Cephalopod_Ink.jpg" width="200" alt="X. Cephalopod Ink" title="X. Cephalopod Ink — Octopus vulgaris"/>
+</p>
+<p align="center"><sub><b>VI.</b> Mammalian Glandular &nbsp;|&nbsp; <b>VII.</b> Fish Structural &nbsp;|&nbsp; <b>VIII.</b> Hymenopteran Venom &nbsp;|&nbsp; <b>IX.</b> Annelid Anticoagulant &nbsp;|&nbsp; <b>X.</b> Cephalopod Ink</sub></p>
+
+<p align="center">
+<img src="images/XI_Echinoderm_Regenerative.jpg" width="200" alt="XI. Echinoderm Regenerative" title="XI. Echinoderm Regenerative — Thelenota rubralineata"/>
+<img src="images/XII_Cnidarian_Nematocyst.jpg" width="200" alt="XII. Cnidarian Nematocyst" title="XII. Cnidarian Nematocyst — Cyanea capillata"/>
+<img src="images/XIII_Avian_Preen.jpg" width="200" alt="XIII. Avian Preen" title="XIII. Avian Preen — Anas platyrhynchos"/>
+<img src="images/XIV_Reptilian_Oral.jpg" width="200" alt="XIV. Reptilian Oral" title="XIV. Reptilian Oral — Heloderma suspectum"/>
+</p>
+<p align="center"><sub><b>XI.</b> Echinoderm Regenerative &nbsp;|&nbsp; <b>XII.</b> Cnidarian Nematocyst &nbsp;|&nbsp; <b>XIII.</b> Avian Preen &nbsp;|&nbsp; <b>XIV.</b> Reptilian Oral</sub></p>
+
+<p align="center"><sub><i>All images sourced from Wikimedia Commons under CC-BY, CC-BY-SA, CC0, or Public Domain licenses. See <a href="#image-credits">Image Credits</a> for full attribution.</i></sub></p>
+
+---
+
 ## Canonical Types
 
 | # | Type | Tier | T | C | Γ | G | φ̂ | H | Σ | Ω | Reps |
@@ -126,7 +158,6 @@ Key (type number → name):
 | Amphibian ≈ Echinoderm | 1 | Only G differs (𑑠 sequential vs 𑑵 broadcast). Dermal granular glands and body-wall saponins differ only in release pattern |
 | Ophidian vs Fish | 8 | Maximum distance. Fast bolus venom (O₂†, 𑑘/𑑲/𑑠/⊙/𑑫/𑑕/𑑴) vs slow structural lipid (O₁, 𑑧/𑑔/𑑵/𑑢/𑑖/𑑙/𑑷) — no shared discriminant primitives beyond invariants |
 
-
 ---
 
 ## Cross-Domain Bridge
@@ -164,6 +195,10 @@ Ars_Animaglyphica/
 ├── README.md                           ← This file
 ├── pyproject.toml                      ← Package metadata; CLI entry: `aa`
 ├── expand_types.py                     ← Algorithmic type expansion (9→14)
+├── images/                             ← 14 type photographs (Wikimedia Commons)
+│   ├── I_Ophidian_Venom.jpg
+│   ├── II_Amphibian_Dermal.jpg
+│   └── ... (14 total)
 ├── data/
 │   └── catalog.json                    ← 14 type entries with full tuples + metadata
 ├── illustrations/
@@ -225,6 +260,29 @@ aa morphology dendrobates_tinctorius
 # Show the type lattice with pairwise Hamming distances
 aa lattice
 ```
+
+---
+
+## Image Credits
+
+All type photographs sourced from **Wikimedia Commons** under free licenses:
+
+| Type | Source | License | Photographer |
+|------|--------|---------|-------------|
+| I. Ophidian Venom | *Vipera ammodytes* | CC BY-SA 4.0 | — |
+| II. Amphibian Dermal | *Dendrobates tinctorius* | CC BY-SA 4.0 | — |
+| III. Arthropod Exoskeletal | *Buthus paris* | CC BY-SA 2.0 | — |
+| IV. Molluscan Harpoon | *Conus textile* | CC BY-SA 4.0 | — |
+| V. Marine Sessile Defense | *Aplysina gerardogreeni* | CC BY-SA 4.0 | Diego Delso |
+| VI. Mammalian Glandular | *Ornithorhynchus anatinus* | CC BY-SA 4.0 | — |
+| VII. Fish Structural | *Synanceia nana* | CC BY-SA 4.0 | Diego Delso |
+| VIII. Hymenopteran Venom | *Apis mellifera* | CC BY-SA 2.5 | — |
+| IX. Annelid Anticoagulant | *Hirudo medicinalis* | CC BY 4.0 | — |
+| X. Cephalopod Ink | *Octopus vulgaris* | CC BY-SA 4.0 | Diego Delso |
+| XI. Echinoderm Regenerative | *Thelenota rubralineata* | CC BY-SA 2.0 | — |
+| XII. Cnidarian Nematocyst | *Cyanea capillata* | CC BY 2.0 | — |
+| XIII. Avian Preen | *Anas platyrhynchos* | CC BY-SA 4.0 | — |
+| XIV. Reptilian Oral | *Heloderma suspectum* | CC0 | — |
 
 ---
 
