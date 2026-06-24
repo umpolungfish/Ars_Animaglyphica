@@ -1,0 +1,829 @@
+========================================================================
+  ARS ANIMAGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Animal    : naja_naja
+  Type      : Ophidian Venom  (O2_dagger tier)
+  Tuple     : <𐑦·𐑡·𐑾·𐑯·𐑞·𐑘·𐑲·𐑠·⊙·𐑫·𐑕·𐑴>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Serpentine / Network
+      Elongated body with venom delivery network: fangs→ducts→glands.
+      Extract venom via electrical stimulation or manual gland
+      compression. Lyophilize immediately. The venom apparatus IS the
+      delivery system.
+
+  Kinetics (C)
+    -> Instantaneous / Bolus
+      Fast instantaneous kinetics. Venom or secretion delivered as
+      bolus. Lyophilization preserves activity. Reconstitute in
+      physiological buffer. No heat — peptides denature.
+
+  Granularity (Gamma)
+    -> Universal / Systemic
+      Compounds act on all major tissue systems. Fine lyophilization
+      — uniform particle size for systemic delivery. Venoms targeting
+      multiple ion channels across tissue types.
+
+  Coupling (G)
+    -> Sequential cascade
+      Venom components act in temporal order. First: fast-acting
+      neurotoxins (seconds). Second: hemotoxins (minutes). Third:
+      digestive enzymes (hours). The sequence IS the pharmaceutical
+      program.
+
+  Criticality (Phi_c)
+    -> Aposematic self-modeling
+      Warning coloration IS the self-report. Yellow-black, red-black,
+      or blue-yellow banding encodes potency. The animal advertises
+      its own pharmaceutical activity. Extract until the
+      morphological signal is fully decoded into yield.
+
+  Chirality (H)
+    -> Eternal chirality
+      Multiple disulfide bonds constrain peptide conformation.
+      Complex polyketide and alkaloid scaffolds with many
+      stereocenters. Chiral fidelity across unlimited processing.
+      Conotoxins, batrachotoxin, palytoxin: stereochemistry IS
+      activity.
+
+  Winding (Omega)
+    -> Binary processing
+      Two required phases: venom extraction then lyophilization.
+      Alternatively: crude extraction then HPLC fractionation. Binary
+      winding (Z2-period).
+
+========================================================================
+  "The body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS ANIMAGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Animal    : phyllobates_terribilis
+  Type      : Amphibian Dermal  (O2 tier)
+  Tuple     : <𐑦·𐑸·𐑾·𐑯·𐑞·𐑧·𐑔·𐑠·⊙·𐑫·𐑳·𐑭>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Holographic / Distributed
+      Pharmaceutical compounds distributed across entire body surface
+      (skin glands) or throughout tissue. Whole-body extraction or
+      skin secretion harvesting. The body plan symmetry encodes
+      compound distribution.
+
+  Kinetics (C)
+    -> Activated / Sustained
+      Slow activated kinetics. Tissue disruption required for
+      compound release. Extended extraction: 2-24 h.
+      Temperature-controlled to preserve protein folding.
+
+  Granularity (Gamma)
+    -> Mesoscale / Regional
+      Compounds target 2-4 related tissue systems. Coarse preparation
+      sufficient. Regional specificity encoded in compound
+      distribution within the body plan.
+
+  Coupling (G)
+    -> Sequential cascade
+      Venom components act in temporal order. First: fast-acting
+      neurotoxins (seconds). Second: hemotoxins (minutes). Third:
+      digestive enzymes (hours). The sequence IS the pharmaceutical
+      program.
+
+  Criticality (Phi_c)
+    -> Aposematic self-modeling
+      Warning coloration IS the self-report. Yellow-black, red-black,
+      or blue-yellow banding encodes potency. The animal advertises
+      its own pharmaceutical activity. Extract until the
+      morphological signal is fully decoded into yield.
+
+  Chirality (H)
+    -> Eternal chirality
+      Multiple disulfide bonds constrain peptide conformation.
+      Complex polyketide and alkaloid scaffolds with many
+      stereocenters. Chiral fidelity across unlimited processing.
+      Conotoxins, batrachotoxin, palytoxin: stereochemistry IS
+      activity.
+
+  Winding (Omega)
+    -> Integer winding
+      Multi-step processing cascade. Venom extraction → fractionation
+      → lyophilization → reconstitution → assay. Integer winding
+      (Z-period). Each cycle purifies further.
+
+========================================================================
+  "The body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS ANIMAGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Animal    : androctonus_mauretanicus
+  Type      : Arthropod Exoskeletal  (O2 tier)
+  Tuple     : <𐑦·𐑶·𐑾·𐑯·𐑞·𐑘·𐑲·𐑠·⊙·𐑫·𐑳·𐑭>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Box-product / Compartmentalized
+      Discrete anatomical compartments (telson, chelicerae,
+      exoskeletal segments). Each compartment contains distinct
+      compound fractions. Extract by compartment.
+
+  Kinetics (C)
+    -> Instantaneous / Bolus
+      Fast instantaneous kinetics. Venom or secretion delivered as
+      bolus. Lyophilization preserves activity. Reconstitute in
+      physiological buffer. No heat — peptides denature.
+
+  Granularity (Gamma)
+    -> Universal / Systemic
+      Compounds act on all major tissue systems. Fine lyophilization
+      — uniform particle size for systemic delivery. Venoms targeting
+      multiple ion channels across tissue types.
+
+  Coupling (G)
+    -> Sequential cascade
+      Venom components act in temporal order. First: fast-acting
+      neurotoxins (seconds). Second: hemotoxins (minutes). Third:
+      digestive enzymes (hours). The sequence IS the pharmaceutical
+      program.
+
+  Criticality (Phi_c)
+    -> Aposematic self-modeling
+      Warning coloration IS the self-report. Yellow-black, red-black,
+      or blue-yellow banding encodes potency. The animal advertises
+      its own pharmaceutical activity. Extract until the
+      morphological signal is fully decoded into yield.
+
+  Chirality (H)
+    -> Eternal chirality
+      Multiple disulfide bonds constrain peptide conformation.
+      Complex polyketide and alkaloid scaffolds with many
+      stereocenters. Chiral fidelity across unlimited processing.
+      Conotoxins, batrachotoxin, palytoxin: stereochemistry IS
+      activity.
+
+  Winding (Omega)
+    -> Integer winding
+      Multi-step processing cascade. Venom extraction → fractionation
+      → lyophilization → reconstitution → assay. Integer winding
+      (Z-period). Each cycle purifies further.
+
+========================================================================
+  "The body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS ANIMAGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Animal    : conus_geographus
+  Type      : Molluscan Harpoon  (O2_dagger tier)
+  Tuple     : <𐑦·𐑰·𐑾·𐑯·𐑞·𐑘·𐑲·𐑠·⊙·𐑫·𐑕·𐑴>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Containment / Glandular
+      Active compounds sequestered in specialized glands or organs.
+      Surgical extraction or gland harvest. The container IS the
+      pharmaceutical unit.
+
+  Kinetics (C)
+    -> Instantaneous / Bolus
+      Fast instantaneous kinetics. Venom or secretion delivered as
+      bolus. Lyophilization preserves activity. Reconstitute in
+      physiological buffer. No heat — peptides denature.
+
+  Granularity (Gamma)
+    -> Universal / Systemic
+      Compounds act on all major tissue systems. Fine lyophilization
+      — uniform particle size for systemic delivery. Venoms targeting
+      multiple ion channels across tissue types.
+
+  Coupling (G)
+    -> Sequential cascade
+      Venom components act in temporal order. First: fast-acting
+      neurotoxins (seconds). Second: hemotoxins (minutes). Third:
+      digestive enzymes (hours). The sequence IS the pharmaceutical
+      program.
+
+  Criticality (Phi_c)
+    -> Aposematic self-modeling
+      Warning coloration IS the self-report. Yellow-black, red-black,
+      or blue-yellow banding encodes potency. The animal advertises
+      its own pharmaceutical activity. Extract until the
+      morphological signal is fully decoded into yield.
+
+  Chirality (H)
+    -> Eternal chirality
+      Multiple disulfide bonds constrain peptide conformation.
+      Complex polyketide and alkaloid scaffolds with many
+      stereocenters. Chiral fidelity across unlimited processing.
+      Conotoxins, batrachotoxin, palytoxin: stereochemistry IS
+      activity.
+
+  Winding (Omega)
+    -> Binary processing
+      Two required phases: venom extraction then lyophilization.
+      Alternatively: crude extraction then HPLC fractionation. Binary
+      winding (Z2-period).
+
+========================================================================
+  "The body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS ANIMAGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Animal    : tethya_aurantia
+  Type      : Marine Sessile Defense  (O1 tier)
+  Tuple     : <𐑦·𐑥·𐑾·𐑯·𐑞·𐑤·𐑔·𐑠·𐑢·𐑫·𐑳·𐑷>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Bowtie / Filter-Feeder
+      Filter-feeding body plan. Chemical defense compounds stored in
+      specialized cell types (spherulous cells, bladder cells).
+      Whole-organism maceration required.
+
+  Kinetics (C)
+    -> Frozen-order / Storage
+      Compounds stored in specialized cells requiring mechanical
+      rupture. Cold extraction: 12-48 h at 4 C. Frozen-order kinetics
+      — the organism does not actively release.
+
+  Granularity (Gamma)
+    -> Mesoscale / Regional
+      Compounds target 2-4 related tissue systems. Coarse preparation
+      sufficient. Regional specificity encoded in compound
+      distribution within the body plan.
+
+  Coupling (G)
+    -> Sequential cascade
+      Venom components act in temporal order. First: fast-acting
+      neurotoxins (seconds). Second: hemotoxins (minutes). Third:
+      digestive enzymes (hours). The sequence IS the pharmaceutical
+      program.
+
+  Criticality (Phi_c)
+    -> Sub-critical / cryptic
+      No aposematic signal. The exterior gives no pharmaceutical
+      self-report. Standardize to marker compound. Protocol timing
+      replaces morphological feedback.
+
+  Chirality (H)
+    -> Eternal chirality
+      Multiple disulfide bonds constrain peptide conformation.
+      Complex polyketide and alkaloid scaffolds with many
+      stereocenters. Chiral fidelity across unlimited processing.
+      Conotoxins, batrachotoxin, palytoxin: stereochemistry IS
+      activity.
+
+  Winding (Omega)
+    -> Single processing
+      One-pass extraction. The organism gives everything in one
+      preparation. No further purification needed for traditional
+      use.
+
+========================================================================
+  "The body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS ANIMAGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Animal    : bos_taurus_adrenal
+  Type      : Mammalian Glandular  (O1 tier)
+  Tuple     : <𐑦·𐑰·𐑾·𐑯·𐑞·𐑧·𐑔·𐑠·𐑢·𐑖·𐑙·𐑷>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Containment / Glandular
+      Active compounds sequestered in specialized glands or organs.
+      Surgical extraction or gland harvest. The container IS the
+      pharmaceutical unit.
+
+  Kinetics (C)
+    -> Activated / Sustained
+      Slow activated kinetics. Tissue disruption required for
+      compound release. Extended extraction: 2-24 h.
+      Temperature-controlled to preserve protein folding.
+
+  Granularity (Gamma)
+    -> Mesoscale / Regional
+      Compounds target 2-4 related tissue systems. Coarse preparation
+      sufficient. Regional specificity encoded in compound
+      distribution within the body plan.
+
+  Coupling (G)
+    -> Sequential cascade
+      Venom components act in temporal order. First: fast-acting
+      neurotoxins (seconds). Second: hemotoxins (minutes). Third:
+      digestive enzymes (hours). The sequence IS the pharmaceutical
+      program.
+
+  Criticality (Phi_c)
+    -> Sub-critical / cryptic
+      No aposematic signal. The exterior gives no pharmaceutical
+      self-report. Standardize to marker compound. Protocol timing
+      replaces morphological feedback.
+
+  Chirality (H)
+    -> Two-step chiral
+      Peptide toxins with 1-2 disulfide bonds. Filter through
+      molecular weight cutoff membrane, then HPLC. Two-step
+      purification sufficient for most venom peptides.
+
+  Winding (Omega)
+    -> Single processing
+      One-pass extraction. The organism gives everything in one
+      preparation. No further purification needed for traditional
+      use.
+
+========================================================================
+  "The body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS ANIMAGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Animal    : squalus_acanthias
+  Type      : Fish Structural  (O1 tier)
+  Tuple     : <𐑦·𐑸·𐑾·𐑯·𐑞·𐑧·𐑔·𐑵·𐑢·𐑖·𐑙·𐑷>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Holographic / Distributed
+      Pharmaceutical compounds distributed across entire body surface
+      (skin glands) or throughout tissue. Whole-body extraction or
+      skin secretion harvesting. The body plan symmetry encodes
+      compound distribution.
+
+  Kinetics (C)
+    -> Activated / Sustained
+      Slow activated kinetics. Tissue disruption required for
+      compound release. Extended extraction: 2-24 h.
+      Temperature-controlled to preserve protein folding.
+
+  Granularity (Gamma)
+    -> Mesoscale / Regional
+      Compounds target 2-4 related tissue systems. Coarse preparation
+      sufficient. Regional specificity encoded in compound
+      distribution within the body plan.
+
+  Coupling (G)
+    -> Broadcast alarm
+      All components release simultaneously. Alarm pheromone
+      broadcast triggers colony response. Melittin + phospholipase +
+      histamine: the cocktail IS the message. No temporal ordering —
+      pattern recognition delivery.
+
+  Criticality (Phi_c)
+    -> Sub-critical / cryptic
+      No aposematic signal. The exterior gives no pharmaceutical
+      self-report. Standardize to marker compound. Protocol timing
+      replaces morphological feedback.
+
+  Chirality (H)
+    -> Two-step chiral
+      Peptide toxins with 1-2 disulfide bonds. Filter through
+      molecular weight cutoff membrane, then HPLC. Two-step
+      purification sufficient for most venom peptides.
+
+  Winding (Omega)
+    -> Single processing
+      One-pass extraction. The organism gives everything in one
+      preparation. No further purification needed for traditional
+      use.
+
+========================================================================
+  "The body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS ANIMAGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Animal    : apis_mellifera
+  Type      : Hymenopteran Venom  (O2 tier)
+  Tuple     : <𐑦·𐑡·𐑾·𐑯·𐑞·𐑘·𐑲·𐑵·⊙·𐑖·𐑳·𐑭>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Serpentine / Network
+      Elongated body with venom delivery network: fangs→ducts→glands.
+      Extract venom via electrical stimulation or manual gland
+      compression. Lyophilize immediately. The venom apparatus IS the
+      delivery system.
+
+  Kinetics (C)
+    -> Instantaneous / Bolus
+      Fast instantaneous kinetics. Venom or secretion delivered as
+      bolus. Lyophilization preserves activity. Reconstitute in
+      physiological buffer. No heat — peptides denature.
+
+  Granularity (Gamma)
+    -> Universal / Systemic
+      Compounds act on all major tissue systems. Fine lyophilization
+      — uniform particle size for systemic delivery. Venoms targeting
+      multiple ion channels across tissue types.
+
+  Coupling (G)
+    -> Broadcast alarm
+      All components release simultaneously. Alarm pheromone
+      broadcast triggers colony response. Melittin + phospholipase +
+      histamine: the cocktail IS the message. No temporal ordering —
+      pattern recognition delivery.
+
+  Criticality (Phi_c)
+    -> Aposematic self-modeling
+      Warning coloration IS the self-report. Yellow-black, red-black,
+      or blue-yellow banding encodes potency. The animal advertises
+      its own pharmaceutical activity. Extract until the
+      morphological signal is fully decoded into yield.
+
+  Chirality (H)
+    -> Two-step chiral
+      Peptide toxins with 1-2 disulfide bonds. Filter through
+      molecular weight cutoff membrane, then HPLC. Two-step
+      purification sufficient for most venom peptides.
+
+  Winding (Omega)
+    -> Integer winding
+      Multi-step processing cascade. Venom extraction → fractionation
+      → lyophilization → reconstitution → assay. Integer winding
+      (Z-period). Each cycle purifies further.
+
+========================================================================
+  "The body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS ANIMAGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Animal    : hirudo_medicinalis
+  Type      : Annelid Anticoagulant  (O1 tier)
+  Tuple     : <𐑦·𐑰·𐑾·𐑯·𐑞·𐑘·𐑲·𐑠·𐑢·𐑫·𐑕·𐑷>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Containment / Glandular
+      Active compounds sequestered in specialized glands or organs.
+      Surgical extraction or gland harvest. The container IS the
+      pharmaceutical unit.
+
+  Kinetics (C)
+    -> Instantaneous / Bolus
+      Fast instantaneous kinetics. Venom or secretion delivered as
+      bolus. Lyophilization preserves activity. Reconstitute in
+      physiological buffer. No heat — peptides denature.
+
+  Granularity (Gamma)
+    -> Universal / Systemic
+      Compounds act on all major tissue systems. Fine lyophilization
+      — uniform particle size for systemic delivery. Venoms targeting
+      multiple ion channels across tissue types.
+
+  Coupling (G)
+    -> Sequential cascade
+      Venom components act in temporal order. First: fast-acting
+      neurotoxins (seconds). Second: hemotoxins (minutes). Third:
+      digestive enzymes (hours). The sequence IS the pharmaceutical
+      program.
+
+  Criticality (Phi_c)
+    -> Sub-critical / cryptic
+      No aposematic signal. The exterior gives no pharmaceutical
+      self-report. Standardize to marker compound. Protocol timing
+      replaces morphological feedback.
+
+  Chirality (H)
+    -> Eternal chirality
+      Multiple disulfide bonds constrain peptide conformation.
+      Complex polyketide and alkaloid scaffolds with many
+      stereocenters. Chiral fidelity across unlimited processing.
+      Conotoxins, batrachotoxin, palytoxin: stereochemistry IS
+      activity.
+
+  Winding (Omega)
+    -> Single processing
+      One-pass extraction. The organism gives everything in one
+      preparation. No further purification needed for traditional
+      use.
+
+========================================================================
+  "The body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS ANIMAGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Animal    : sepia_officinalis
+  Type      : Cephalopod Ink  (O2 tier)
+  Tuple     : <𐑦·𐑰·𐑾·𐑯·𐑞·𐑘·𐑔·𐑵·⊙·𐑒·𐑕·𐑷>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Containment / Glandular
+      Active compounds sequestered in specialized glands or organs.
+      Surgical extraction or gland harvest. The container IS the
+      pharmaceutical unit.
+
+  Kinetics (C)
+    -> Instantaneous / Bolus
+      Fast instantaneous kinetics. Venom or secretion delivered as
+      bolus. Lyophilization preserves activity. Reconstitute in
+      physiological buffer. No heat — peptides denature.
+
+  Granularity (Gamma)
+    -> Mesoscale / Regional
+      Compounds target 2-4 related tissue systems. Coarse preparation
+      sufficient. Regional specificity encoded in compound
+      distribution within the body plan.
+
+  Coupling (G)
+    -> Broadcast alarm
+      All components release simultaneously. Alarm pheromone
+      broadcast triggers colony response. Melittin + phospholipase +
+      histamine: the cocktail IS the message. No temporal ordering —
+      pattern recognition delivery.
+
+  Criticality (Phi_c)
+    -> Aposematic self-modeling
+      Warning coloration IS the self-report. Yellow-black, red-black,
+      or blue-yellow banding encodes potency. The animal advertises
+      its own pharmaceutical activity. Extract until the
+      morphological signal is fully decoded into yield.
+
+  Chirality (H)
+    -> —
+      Unrecognised: '𐑒'
+
+  Winding (Omega)
+    -> Single processing
+      One-pass extraction. The organism gives everything in one
+      preparation. No further purification needed for traditional
+      use.
+
+========================================================================
+  "The body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS ANIMAGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Animal    : holothuria_leucospilota
+  Type      : Echinoderm Regenerative  (O2 tier)
+  Tuple     : <𐑦·𐑸·𐑾·𐑯·𐑞·𐑧·𐑔·𐑵·⊙·𐑫·𐑳·𐑭>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Holographic / Distributed
+      Pharmaceutical compounds distributed across entire body surface
+      (skin glands) or throughout tissue. Whole-body extraction or
+      skin secretion harvesting. The body plan symmetry encodes
+      compound distribution.
+
+  Kinetics (C)
+    -> Activated / Sustained
+      Slow activated kinetics. Tissue disruption required for
+      compound release. Extended extraction: 2-24 h.
+      Temperature-controlled to preserve protein folding.
+
+  Granularity (Gamma)
+    -> Mesoscale / Regional
+      Compounds target 2-4 related tissue systems. Coarse preparation
+      sufficient. Regional specificity encoded in compound
+      distribution within the body plan.
+
+  Coupling (G)
+    -> Broadcast alarm
+      All components release simultaneously. Alarm pheromone
+      broadcast triggers colony response. Melittin + phospholipase +
+      histamine: the cocktail IS the message. No temporal ordering —
+      pattern recognition delivery.
+
+  Criticality (Phi_c)
+    -> Aposematic self-modeling
+      Warning coloration IS the self-report. Yellow-black, red-black,
+      or blue-yellow banding encodes potency. The animal advertises
+      its own pharmaceutical activity. Extract until the
+      morphological signal is fully decoded into yield.
+
+  Chirality (H)
+    -> Eternal chirality
+      Multiple disulfide bonds constrain peptide conformation.
+      Complex polyketide and alkaloid scaffolds with many
+      stereocenters. Chiral fidelity across unlimited processing.
+      Conotoxins, batrachotoxin, palytoxin: stereochemistry IS
+      activity.
+
+  Winding (Omega)
+    -> Integer winding
+      Multi-step processing cascade. Venom extraction → fractionation
+      → lyophilization → reconstitution → assay. Integer winding
+      (Z-period). Each cycle purifies further.
+
+========================================================================
+  "The body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS ANIMAGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Animal    : chironex_fleckeri
+  Type      : Cnidarian Nematocyst  (O2_dagger tier)
+  Tuple     : <𐑦·𐑥·𐑾·𐑯·𐑞·𐑘·𐑲·𐑠·⊙·𐑫·𐑕·𐑴>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Bowtie / Filter-Feeder
+      Filter-feeding body plan. Chemical defense compounds stored in
+      specialized cell types (spherulous cells, bladder cells).
+      Whole-organism maceration required.
+
+  Kinetics (C)
+    -> Instantaneous / Bolus
+      Fast instantaneous kinetics. Venom or secretion delivered as
+      bolus. Lyophilization preserves activity. Reconstitute in
+      physiological buffer. No heat — peptides denature.
+
+  Granularity (Gamma)
+    -> Universal / Systemic
+      Compounds act on all major tissue systems. Fine lyophilization
+      — uniform particle size for systemic delivery. Venoms targeting
+      multiple ion channels across tissue types.
+
+  Coupling (G)
+    -> Sequential cascade
+      Venom components act in temporal order. First: fast-acting
+      neurotoxins (seconds). Second: hemotoxins (minutes). Third:
+      digestive enzymes (hours). The sequence IS the pharmaceutical
+      program.
+
+  Criticality (Phi_c)
+    -> Aposematic self-modeling
+      Warning coloration IS the self-report. Yellow-black, red-black,
+      or blue-yellow banding encodes potency. The animal advertises
+      its own pharmaceutical activity. Extract until the
+      morphological signal is fully decoded into yield.
+
+  Chirality (H)
+    -> Eternal chirality
+      Multiple disulfide bonds constrain peptide conformation.
+      Complex polyketide and alkaloid scaffolds with many
+      stereocenters. Chiral fidelity across unlimited processing.
+      Conotoxins, batrachotoxin, palytoxin: stereochemistry IS
+      activity.
+
+  Winding (Omega)
+    -> Binary processing
+      Two required phases: venom extraction then lyophilization.
+      Alternatively: crude extraction then HPLC fractionation. Binary
+      winding (Z2-period).
+
+========================================================================
+  "The body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS ANIMAGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Animal    : anas_platyrhynchos
+  Type      : Avian Preen  (O1 tier)
+  Tuple     : <𐑦·𐑰·𐑾·𐑯·𐑞·𐑧·𐑔·𐑠·𐑢·𐑖·𐑙·𐑷>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Containment / Glandular
+      Active compounds sequestered in specialized glands or organs.
+      Surgical extraction or gland harvest. The container IS the
+      pharmaceutical unit.
+
+  Kinetics (C)
+    -> Activated / Sustained
+      Slow activated kinetics. Tissue disruption required for
+      compound release. Extended extraction: 2-24 h.
+      Temperature-controlled to preserve protein folding.
+
+  Granularity (Gamma)
+    -> Mesoscale / Regional
+      Compounds target 2-4 related tissue systems. Coarse preparation
+      sufficient. Regional specificity encoded in compound
+      distribution within the body plan.
+
+  Coupling (G)
+    -> Sequential cascade
+      Venom components act in temporal order. First: fast-acting
+      neurotoxins (seconds). Second: hemotoxins (minutes). Third:
+      digestive enzymes (hours). The sequence IS the pharmaceutical
+      program.
+
+  Criticality (Phi_c)
+    -> Sub-critical / cryptic
+      No aposematic signal. The exterior gives no pharmaceutical
+      self-report. Standardize to marker compound. Protocol timing
+      replaces morphological feedback.
+
+  Chirality (H)
+    -> Two-step chiral
+      Peptide toxins with 1-2 disulfide bonds. Filter through
+      molecular weight cutoff membrane, then HPLC. Two-step
+      purification sufficient for most venom peptides.
+
+  Winding (Omega)
+    -> Single processing
+      One-pass extraction. The organism gives everything in one
+      preparation. No further purification needed for traditional
+      use.
+
+========================================================================
+  "The body does not describe its medicine.
+   It executes it."
+========================================================================
+
+========================================================================
+  ARS ANIMAGLYPHICA — Morphological Reading
+------------------------------------------------------------------------
+  Animal    : heloderma_suspectum
+  Type      : Reptilian Oral  (O2 tier)
+  Tuple     : <𐑦·𐑡·𐑾·𐑯·𐑞·𐑘·𐑲·𐑠·⊙·𐑫·𐑳·𐑭>
+------------------------------------------------------------------------
+  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING
+------------------------------------------------------------------------
+  Topology (T)
+    -> Serpentine / Network
+      Elongated body with venom delivery network: fangs→ducts→glands.
+      Extract venom via electrical stimulation or manual gland
+      compression. Lyophilize immediately. The venom apparatus IS the
+      delivery system.
+
+  Kinetics (C)
+    -> Instantaneous / Bolus
+      Fast instantaneous kinetics. Venom or secretion delivered as
+      bolus. Lyophilization preserves activity. Reconstitute in
+      physiological buffer. No heat — peptides denature.
+
+  Granularity (Gamma)
+    -> Universal / Systemic
+      Compounds act on all major tissue systems. Fine lyophilization
+      — uniform particle size for systemic delivery. Venoms targeting
+      multiple ion channels across tissue types.
+
+  Coupling (G)
+    -> Sequential cascade
+      Venom components act in temporal order. First: fast-acting
+      neurotoxins (seconds). Second: hemotoxins (minutes). Third:
+      digestive enzymes (hours). The sequence IS the pharmaceutical
+      program.
+
+  Criticality (Phi_c)
+    -> Aposematic self-modeling
+      Warning coloration IS the self-report. Yellow-black, red-black,
+      or blue-yellow banding encodes potency. The animal advertises
+      its own pharmaceutical activity. Extract until the
+      morphological signal is fully decoded into yield.
+
+  Chirality (H)
+    -> Eternal chirality
+      Multiple disulfide bonds constrain peptide conformation.
+      Complex polyketide and alkaloid scaffolds with many
+      stereocenters. Chiral fidelity across unlimited processing.
+      Conotoxins, batrachotoxin, palytoxin: stereochemistry IS
+      activity.
+
+  Winding (Omega)
+    -> Integer winding
+      Multi-step processing cascade. Venom extraction → fractionation
+      → lyophilization → reconstitution → assay. Integer winding
+      (Z-period). Each cycle purifies further.
+
+========================================================================
+  "The body does not describe its medicine.
+   It executes it."
+========================================================================
+

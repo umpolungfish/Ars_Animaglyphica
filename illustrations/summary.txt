@@ -1,0 +1,19 @@
+ARS ANIMAGLYPHICA — TYPE SUMMARY (14 types)
+==============================================================================
+
+#    Type Name                      Tier         T      C      Gm     G      Ph_c   H      Sg     Om     Reps  
+------------------------------------------------------------------------------
+1    Ophidian Venom                 O2_dagger    𐑡      𐑘      𐑲      𐑠      ⊙      𐑫      𐑕      𐑴      6     
+2    Amphibian Dermal               O2           𐑸      𐑧      𐑔      𐑠      ⊙      𐑫      𐑳      𐑭      5     
+3    Arthropod Exoskeletal          O2           𐑶      𐑘      𐑲      𐑠      ⊙      𐑫      𐑳      𐑭      6     
+4    Molluscan Harpoon              O2_dagger    𐑰      𐑘      𐑲      𐑠      ⊙      𐑫      𐑕      𐑴      5     
+5    Marine Sessile Defense         O1           𐑥      𐑤      𐑔      𐑠      𐑢      𐑫      𐑳      𐑷      6     
+6    Mammalian Glandular            O1           𐑰      𐑧      𐑔      𐑠      𐑢      𐑖      𐑙      𐑷      5     
+7    Fish Structural                O1           𐑸      𐑧      𐑔      𐑵      𐑢      𐑖      𐑙      𐑷      5     
+8    Hymenopteran Venom             O2           𐑡      𐑘      𐑲      𐑵      ⊙      𐑖      𐑳      𐑭      5     
+9    Annelid Anticoagulant          O1           𐑰      𐑘      𐑲      𐑠      𐑢      𐑫      𐑕      𐑷      5     
+10   Cephalopod Ink                 O2           𐑰      𐑘      𐑔      𐑵      ⊙      𐑒      𐑕      𐑷      6     
+11   Echinoderm Regenerative        O2           𐑸      𐑧      𐑔      𐑵      ⊙      𐑫      𐑳      𐑭      7     
+12   Cnidarian Nematocyst           O2_dagger    𐑥      𐑘      𐑲      𐑠      ⊙      𐑫      𐑕      𐑴      7     
+13   Avian Preen                    O1           𐑰      𐑧      𐑔      𐑠      𐑢      𐑖      𐑙      𐑷      6     
+14   Reptilian Oral                 O2           𐑡      𐑘      𐑲      𐑠      ⊙      𐑫      𐑳      𐑭      6     

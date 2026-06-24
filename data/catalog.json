@@ -1,0 +1,411 @@
+{
+  "ars": "animaglyphica",
+  "version": "2.0.0",
+  "n_types": 14,
+  "invariants": {
+    "D": "𐑦",
+    "R": "𐑾",
+    "Phi": "𐑯",
+    "f": "𐑞"
+  },
+  "discriminants": [
+    "T",
+    "C",
+    "Gamma",
+    "G",
+    "Phi_c",
+    "H",
+    "Sigma",
+    "Omega"
+  ],
+  "types": [
+    {
+      "num": 1,
+      "name": "Ophidian Venom",
+      "tier": "O2_dagger",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑡",
+        "R": "𐑾",
+        "Phi": "𐑯",
+        "f": "𐑞",
+        "C": "𐑘",
+        "Gamma": "𐑲",
+        "G": "𐑠",
+        "Phi_c": "⊙",
+        "H": "𐑫",
+        "Sigma": "𐑕",
+        "Omega": "𐑴"
+      },
+      "description": "Elapid/viperid snakes. Branching network topology from venom delivery system: fangs→ducts→glands. Fast instantaneous kinetics — venom acts in seconds. Sequential multi-component action: neurotoxins first, then hemotoxins. Eternal chirality from disulfide-rich peptide toxins. Few compound classes: primarily peptide toxins + enzymes. Binary processing: lyophilization + reconstitution.",
+      "representatives": [
+        "naja_naja",
+        "bungarus_fasciatus",
+        "dendroaspis_polylepis",
+        "crotalus_durissus",
+        "bothrops_jararaca",
+        "ophiophagus_hannah"
+      ]
+    },
+    {
+      "num": 2,
+      "name": "Amphibian Dermal",
+      "tier": "O2",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑸",
+        "R": "𐑾",
+        "Phi": "𐑯",
+        "f": "𐑞",
+        "C": "𐑧",
+        "Gamma": "𐑔",
+        "G": "𐑠",
+        "Phi_c": "⊙",
+        "H": "𐑫",
+        "Sigma": "𐑳",
+        "Omega": "𐑭"
+      },
+      "description": "Poison dart frogs, toads. Holographic self-similar topology: skin glands distributed across entire body surface. Slow activated kinetics — compounds must be extracted from granular glands. Sequential release: alkaloids then peptides. Eternal chirality from complex alkaloid scaffolds. Many heterogeneous classes: alkaloids + peptides + bufadienolides.",
+      "representatives": [
+        "phyllobates_terribilis",
+        "bufo_alvarius",
+        "dendrobates_tinctorius",
+        "epipedobates_tricolor",
+        "rana_catesbeiana"
+      ]
+    },
+    {
+      "num": 3,
+      "name": "Arthropod Exoskeletal",
+      "tier": "O2",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑶",
+        "R": "𐑾",
+        "Phi": "𐑯",
+        "f": "𐑞",
+        "C": "𐑘",
+        "Gamma": "𐑲",
+        "G": "𐑠",
+        "Phi_c": "⊙",
+        "H": "𐑫",
+        "Sigma": "𐑳",
+        "Omega": "𐑭"
+      },
+      "description": "Scorpions, spiders, centipedes. Box-product topology from exoskeletal compartmentalization — venom apparatus in discrete telson/chelicera. Fast instantaneous kinetics: sting/bite delivers bolus. Sequential multi-component venom: ion channel modulators. Eternal chirality from disulfide-constrained peptides. Many heterogeneous classes: peptides + enzymes + small molecules.",
+      "representatives": [
+        "androctonus_mauretanicus",
+        "leiurus_quinquestriatus",
+        "phoneutria_nigriventer",
+        "latrodectus_mactans",
+        "scolopendra_subspinipes",
+        "mesobuthus_martensii"
+      ]
+    },
+    {
+      "num": 4,
+      "name": "Molluscan Harpoon",
+      "tier": "O2_dagger",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑰",
+        "R": "𐑾",
+        "Phi": "𐑯",
+        "f": "𐑞",
+        "C": "𐑘",
+        "Gamma": "𐑲",
+        "G": "𐑠",
+        "Phi_c": "⊙",
+        "H": "𐑫",
+        "Sigma": "𐑕",
+        "Omega": "𐑴"
+      },
+      "description": "Cone snails. Containment topology: venom apparatus contained within specialized radular tooth harpoon. Fast instantaneous delivery. Sequential conotoxin action: specific ion channel targeting. Eternal chirality from multiple disulfide frameworks. Few compound classes: primarily conopeptides. Binary processing: the harpoon delivers then reloads.",
+      "representatives": [
+        "conus_geographus",
+        "conus_magus",
+        "conus_textile",
+        "conus_striatus",
+        "conus_purpurascens"
+      ]
+    },
+    {
+      "num": 5,
+      "name": "Marine Sessile Defense",
+      "tier": "O1",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑥",
+        "R": "𐑾",
+        "Phi": "𐑯",
+        "f": "𐑞",
+        "C": "𐑤",
+        "Gamma": "𐑔",
+        "G": "𐑠",
+        "Phi_c": "𐑢",
+        "H": "𐑫",
+        "Sigma": "𐑳",
+        "Omega": "𐑷"
+      },
+      "description": "Sponges, sea squirts, bryozoans. Bowtie crossing topology: filter-feeding body plan crosses external/internal at osculum. Frozen-order kinetics: chemical defense compounds stored in specialized cells. Sequential release on tissue disruption. Sub-critical: no visual self-report; the sponge IS its chemistry. Eternal chirality from complex polyketide and alkaloid scaffolds. Single-pass extraction — the organism gives everything at once.",
+      "representatives": [
+        "tethya_aurantia",
+        "halichondria_okadai",
+        "aplidium_albicans",
+        "ecteinascidia_turbinata",
+        "bugula_neritina",
+        "dysidea_etheria"
+      ]
+    },
+    {
+      "num": 6,
+      "name": "Mammalian Glandular",
+      "tier": "O1",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑰",
+        "R": "𐑾",
+        "Phi": "𐑯",
+        "f": "𐑞",
+        "C": "𐑧",
+        "Gamma": "𐑔",
+        "G": "𐑠",
+        "Phi_c": "𐑢",
+        "H": "𐑖",
+        "Sigma": "𐑙",
+        "Omega": "𐑷"
+      },
+      "description": "Endocrine/exocrine glands. Containment topology: active compounds sequestered in discrete glandular structures. Slow activated kinetics: extraction requires tissue disruption and fractionation. Sequential release: hormones in cascading order. Sub-critical: gland morphology does not directly self-report. Two-step chirality from peptide/protein hormones. Single compound class: peptide hormones. Single-pass processing.",
+      "representatives": [
+        "bos_taurus_adrenal",
+        "sus_scrofa_thyroid",
+        "ovis_aries_pituitary",
+        "castor_canadensis_castoreum",
+        "physeter_macrocephalus_ambergris"
+      ]
+    },
+    {
+      "num": 7,
+      "name": "Fish Structural",
+      "tier": "O1",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑸",
+        "R": "𐑾",
+        "Phi": "𐑯",
+        "f": "𐑞",
+        "C": "𐑧",
+        "Gamma": "𐑔",
+        "G": "𐑵",
+        "Phi_c": "𐑢",
+        "H": "𐑖",
+        "Sigma": "𐑙",
+        "Omega": "𐑷"
+      },
+      "description": "Sharks, rays, bony fish. Holographic self-similar topology: cartilage and oil distributed throughout body plan. Slow activated kinetics: structural compounds require extended extraction. Broadcast composition: chondroitin, squalene, and omega-3 fatty acids release together. Sub-critical: the body structure does not self-report pharmaceutical quality. Two-step chirality from lipid chains. Single class: structural lipids.",
+      "representatives": [
+        "squalus_acanthias",
+        "gadus_morhua",
+        "scomber_scombrus",
+        "hippoglossus_hippoglossus",
+        "pristis_pectinata"
+      ]
+    },
+    {
+      "num": 8,
+      "name": "Hymenopteran Venom",
+      "tier": "O2",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑡",
+        "R": "𐑾",
+        "Phi": "𐑯",
+        "f": "𐑞",
+        "C": "𐑘",
+        "Gamma": "𐑲",
+        "G": "𐑵",
+        "Phi_c": "⊙",
+        "H": "𐑖",
+        "Sigma": "𐑳",
+        "Omega": "𐑭"
+      },
+      "description": "Bees, wasps, ants. Branching network topology from social colony structure mapping to venom delivery. Fast instantaneous kinetics: sting delivers bolus with alarm pheromone broadcast. Broadcast composition: melittin + phospholipase + histamine + apamin release simultaneously. Self-modeling criticality: aposematic yellow-black banding = self-report. Two-step chirality from peptide toxins.",
+      "representatives": [
+        "apis_mellifera",
+        "vespula_vulgaris",
+        "polistes_dominula",
+        "pogonomyrmex_maricopa",
+        "myrmecia_pilosula"
+      ]
+    },
+    {
+      "num": 9,
+      "name": "Annelid Anticoagulant",
+      "tier": "O1",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑰",
+        "R": "𐑾",
+        "Phi": "𐑯",
+        "f": "𐑞",
+        "C": "𐑘",
+        "Gamma": "𐑲",
+        "G": "𐑠",
+        "Phi_c": "𐑢",
+        "H": "𐑫",
+        "Sigma": "𐑕",
+        "Omega": "𐑷"
+      },
+      "description": "Leeches. Containment topology: salivary glands contain hirudin in discrete compartments. Fast instantaneous delivery: bite releases anticoagulant bolus. Sequential action: anesthetic first, then anticoagulant, then vasodilator. Sub-critical: external morphology gives no pharmaceutical self-report. Eternal chirality from hirudin's complex folding. Few compound classes: peptide anticoagulants + enzymes. Single-pass: the leech feeds once and drops off.",
+      "representatives": [
+        "hirudo_medicinalis",
+        "hirudo_verbana",
+        "macrobdella_decora",
+        "haementeria_ghilianii",
+        "limnatis_nilotica"
+      ]
+    },
+    {
+      "num": 10,
+      "name": "Cephalopod Ink",
+      "tier": "O2",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑰",
+        "R": "𐑾",
+        "Phi": "𐑯",
+        "f": "𐑞",
+        "C": "𐑘",
+        "Gamma": "𐑔",
+        "G": "𐑵",
+        "Phi_c": "⊙",
+        "H": "𐑒",
+        "Sigma": "𐑕",
+        "Omega": "𐑷"
+      },
+      "description": "Coleoid cephalopods: ink sac defensive secretion. Containment topology: ink stored in discrete ink sac adjacent to rectum, deployed through siphon. Fast instantaneous kinetics — bolus ejection creates decoy pseudomorph. Broadcast composition: melanin + mucus + enzymes + dopamine release simultaneously. Self-modeling criticality: the ink cloud shape IS the decoy — the animal self-reports through its secretion morphology. Single-step chirality from melanin polymers. Few compound classes. Single-pass extraction.",
+      "representatives": [
+        "sepia_officinalis",
+        "loligo_vulgaris",
+        "octopus_vulgaris",
+        "sepiola_atlantica",
+        "euprymna_scolopes",
+        "sepioloidea_lineolata"
+      ]
+    },
+    {
+      "num": 11,
+      "name": "Echinoderm Regenerative",
+      "tier": "O2",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑸",
+        "R": "𐑾",
+        "Phi": "𐑯",
+        "f": "𐑞",
+        "C": "𐑧",
+        "Gamma": "𐑔",
+        "G": "𐑵",
+        "Phi_c": "⊙",
+        "H": "𐑫",
+        "Sigma": "𐑳",
+        "Omega": "𐑭"
+      },
+      "description": "Holothuroidea, Echinoidea, Asteroidea. Holographic body plan: radial pentamerous symmetry with pharmaceutical compounds distributed throughout body wall, viscera, and Cuvierian tubules. Slow activated kinetics — regeneration requires sustained signaling. Broadcast composition: saponins + glycosaminoglycans + lectins act systemically. Self-modeling criticality: regeneration IS the self-report of pharmaceutical activity — the degree of regeneration encodes potency. Eternal chirality from complex triterpene glycoside scaffolds. Many heterogeneous classes. Integer winding — multi-step extraction.",
+      "representatives": [
+        "holothuria_leucospilota",
+        "stichopus_japonicus",
+        "diadema_antillarum",
+        "asterias_rubens",
+        "holothuria_scabra",
+        "strongylocentrotus_purpuratus",
+        "cucumaria_frondosa"
+      ]
+    },
+    {
+      "num": 12,
+      "name": "Cnidarian Nematocyst",
+      "tier": "O2_dagger",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑥",
+        "R": "𐑾",
+        "Phi": "𐑯",
+        "f": "𐑞",
+        "C": "𐑘",
+        "Gamma": "𐑲",
+        "G": "𐑠",
+        "Phi_c": "⊙",
+        "H": "𐑫",
+        "Sigma": "𐑕",
+        "Omega": "𐑴"
+      },
+      "description": "Scyphozoa, Cubozoa, Hydrozoa. Bowtie crossing-point topology: nematocyst is the interface where external mechanical/chemical trigger crosses into internal discharge — one of the fastest biological processes (700 ns, acceleration exceeding 5 million g). Fast instantaneous kinetics — bolus delivery on contact. Sequential action: penetrant nematocysts first, then glutinant, then volvent. Self-modeling criticality: tentacle coloration and bell pulsation ARE the aposematic self-report. Eternal chirality from complex protein toxins (porins, neurotoxins). Few compound classes: protein toxins dominate. Binary processing — venom extraction then lyophilization.",
+      "representatives": [
+        "chironex_fleckeri",
+        "physalia_physalis",
+        "chrysaora_quinquecirrha",
+        "cyanea_capillata",
+        "cassiopea_andromeda",
+        "pelagia_noctiluca",
+        "aurelia_aurita"
+      ]
+    },
+    {
+      "num": 13,
+      "name": "Avian Preen",
+      "tier": "O1",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑰",
+        "R": "𐑾",
+        "Phi": "𐑯",
+        "f": "𐑞",
+        "C": "𐑧",
+        "Gamma": "𐑔",
+        "G": "𐑠",
+        "Phi_c": "𐑢",
+        "H": "𐑖",
+        "Sigma": "𐑙",
+        "Omega": "𐑷"
+      },
+      "description": "Uropygial/preen gland of birds. Containment topology: active compounds sequestered in discrete bilobed gland above tail. Slow activated kinetics — preening behavior distributes secretions across plumage in ordered sequence. Sequential release: wax esters first (waterproofing), then fatty acids (antimicrobial), then volatile compounds (pheromonal). Sub-critical: gland size and morphology do not directly encode pharmaceutical potency. Two-step chirality from branched fatty acid esters. Single compound class: lipids and waxes. Single-pass extraction.",
+      "representatives": [
+        "anas_platyrhynchos",
+        "gallus_gallus_domesticus",
+        "columba_livia",
+        "aptenodytes_forsteri",
+        "struthio_camelus",
+        "anas_acuta"
+      ]
+    },
+    {
+      "num": 14,
+      "name": "Reptilian Oral",
+      "tier": "O2",
+      "tuple": {
+        "D": "𐑦",
+        "T": "𐑡",
+        "R": "𐑾",
+        "Phi": "𐑯",
+        "f": "𐑞",
+        "C": "𐑘",
+        "Gamma": "𐑲",
+        "G": "𐑠",
+        "Phi_c": "⊙",
+        "H": "𐑫",
+        "Sigma": "𐑳",
+        "Omega": "𐑭"
+      },
+      "description": "Venomous lizards: Helodermatidae and Varanidae. Serpentine/network topology: grooved teeth deliver venom from mandibular glands through capillary action along dental grooves. Fast instantaneous kinetics — bite delivers bolus with prolonged chewing. Sequential multi-component venom: kallikrein-like enzymes first, then phospholipases, then bioactive peptides (exendin-4, helothermine). Self-modeling criticality: the threat display (gaping, hissing, tail lashing) IS the aposematic self-report. Eternal chirality from complex peptide toxins. Many heterogeneous classes: peptides + enzymes + small molecules. Integer winding — multi-step venom fractionation.",
+      "representatives": [
+        "heloderma_suspectum",
+        "heloderma_horridum",
+        "varanus_komodoensis",
+        "varanus_varius",
+        "heloderma_charlesbogerti",
+        "varanus_salvator"
+      ]
+    }
+  ]
+}

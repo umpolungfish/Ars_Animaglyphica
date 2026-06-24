@@ -1,0 +1,50 @@
+ARS ANIMAGLYPHICA — STRUCTURAL TYPE LATTICE (14 types)
+==============================================================================
+
+TIER LEGEND:  O2_dagger = O₂†  |  O2 = O₂  |  O1 = O₁
+DISCRIMINANT PRIMITIVES: T | C | Gamma | G | Phi_c | H | Sigma | Omega
+INVARIANTS (all): D=𐑦  R=𐑾  Phi=𐑯  f=𐑞
+
+── O₂† (Dagger) TIER (3 types) ──
+
+  Type  1  Ophidian Venom                  <𐑡·𐑘·𐑲·𐑠·⊙·𐑫·𐑕·𐑴>  (6 reps)
+  Type  4  Molluscan Harpoon               <𐑰·𐑘·𐑲·𐑠·⊙·𐑫·𐑕·𐑴>  (5 reps)
+  Type 12  Cnidarian Nematocyst            <𐑥·𐑘·𐑲·𐑠·⊙·𐑫·𐑕·𐑴>  (7 reps)
+
+── O₂ TIER (6 types) ──
+
+  Type  2  Amphibian Dermal                <𐑸·𐑧·𐑔·𐑠·⊙·𐑫·𐑳·𐑭>  (5 reps)
+  Type  3  Arthropod Exoskeletal           <𐑶·𐑘·𐑲·𐑠·⊙·𐑫·𐑳·𐑭>  (6 reps)
+  Type  8  Hymenopteran Venom              <𐑡·𐑘·𐑲·𐑵·⊙·𐑖·𐑳·𐑭>  (5 reps)
+  Type 10  Cephalopod Ink                  <𐑰·𐑘·𐑔·𐑵·⊙·𐑒·𐑕·𐑷>  (6 reps)
+  Type 11  Echinoderm Regenerative         <𐑸·𐑧·𐑔·𐑵·⊙·𐑫·𐑳·𐑭>  (7 reps)
+  Type 14  Reptilian Oral                  <𐑡·𐑘·𐑲·𐑠·⊙·𐑫·𐑳·𐑭>  (6 reps)
+
+── O₁ TIER (5 types) ──
+
+  Type  5  Marine Sessile Defense          <𐑥·𐑤·𐑔·𐑠·𐑢·𐑫·𐑳·𐑷>  (6 reps)
+  Type  6  Mammalian Glandular             <𐑰·𐑧·𐑔·𐑠·𐑢·𐑖·𐑙·𐑷>  (5 reps)
+  Type  7  Fish Structural                 <𐑸·𐑧·𐑔·𐑵·𐑢·𐑖·𐑙·𐑷>  (5 reps)
+  Type  9  Annelid Anticoagulant           <𐑰·𐑘·𐑲·𐑠·𐑢·𐑫·𐑕·𐑷>  (5 reps)
+  Type 13  Avian Preen                     <𐑰·𐑧·𐑔·𐑠·𐑢·𐑖·𐑙·𐑷>  (6 reps)
+
+── DISTANCE MATRIX (discriminant mismatches) ──
+
+         T1   T2   T3   T4   T5   T6   T7   T8   T9   T10  T11  T12  T13  T14  
+T1      0    5    3    1    6    7    8    4    3    5    6    1    7    2    
+T2      5    0    3    5    4    5    5    5    6    6    1    5    5    3    
+T3      3    3    0    3    5    7    8    3    4    6    4    3    7    1    
+T4      1    5    3    0    6    6    8    5    2    4    6    1    6    3    
+T5      6    4    5    6    0    4    5    7    4    6    5    5    4    5    
+T6      7    5    7    6    4    0    2    7    4    5    6    7    0    7    
+T7      8    5    8    8    5    2    0    6    6    5    4    8    2    8    
+T8      4    5    3    5    7    7    6    0    6    5    4    5    7    2    
+T9      3    6    4    2    4    4    6    6    0    4    7    3    4    4    
+T10     5    6    6    4    6    5    5    5    4    0    5    5    5    6    
+T11     6    1    4    6    5    6    4    4    7    5    0    6    6    4    
+T12     1    5    3    1    5    7    8    5    3    5    6    0    7    3    
+T13     7    5    7    6    4    0    2    7    4    5    6    7    0    7    
+T14     2    3    1    3    5    7    8    2    4    6    4    3    7    0    
+
+Total types: 14
+Total representatives: 80
