@@ -52,22 +52,38 @@ Every tuple is algorithmically imscribed via the deterministic procedure. Zero t
 
 ## Canonical Types
 
-| Num | Type | Tier | Þ | Ç | Γ | ɢ | ⊙ | Ħ | Σ | Ω | Reps |
-|---|------|------|---|---|---|---|---|---|---|---|---|------|
-| I | "Ophidian Venom" | O₂† | 𐑡 | 𐑘 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑕 | 𐑴 | 6 |
-| II | "Amphibian Dermal" | O₂ | 𐑸 | 𐑧 | 𐑔 | 𐑠 | ⊙ | 𐑫 | 𐑳 | 𐑭 | 5 |
-| III | "Arthropod Exoskeletal" | O₂ | 𐑶 | 𐑘 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑳 | 𐑭 | 6 |
-| IV | "Molluscan Harpoon" | O₂† | 𐑰 | 𐑘 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑕 | 𐑴 | 5 |
-| V | "Marine Sessile Defense" | O₁ | 𐑥 | 𐑤 | 𐑔 | 𐑠 | 𐑢 | 𐑫 | 𐑳 | 𐑷 | 6 |
-| VI | "Mammalian Glandular" | O₁ | 𐑰 | 𐑧 | 𐑔 | 𐑠 | 𐑢 | 𐑖 | 𐑙 | 𐑷 | 5 |
-| VII | "Fish Structural" | O₁ | 𐑸 | 𐑧 | 𐑔 | 𐑵 | 𐑢 | 𐑖 | 𐑙 | 𐑷 | 5 |
-| VIII | "Hymenopteran Venom" | O₂ | 𐑡 | 𐑘 | 𐑲 | 𐑵 | ⊙ | 𐑖 | 𐑳 | 𐑭 | 5 |
-| IX | "Annelid Anticoagulant" | O₁ | 𐑰 | 𐑘 | 𐑲 | 𐑠 | 𐑢 | 𐑫 | 𐑕 | 𐑷 | 5 |
-| X | "Cephalopod Ink" | O₂ | 𐑰 | 𐑘 | 𐑔 | 𐑵 | ⊙ | 𐑒 | 𐑕 | 𐑷 | 6 |
-| XI | "Echinoderm" Regenerative" | O₂ | 𐑸 | 𐑧 | 𐑔 | 𐑵 | ⊙ | 𐑫 | 𐑳 | 𐑭 | 7 |
-| XII | "Cnidarian Nematocyst" | O₂† | 𐑥 | 𐑘 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑕 | 𐑴 | 7 |
-| XIII | "Avian Preen" | O₁ | 𐑰 | 𐑧 | 𐑔 | 𐑠 | 𐑢 | 𐑖 | 𐑙 | 𐑷 | 6 |
-| XIV | "Reptilian Oral" | O₂ | 𐑡 | 𐑘 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑳 | 𐑭 | 6 |
+| Num | Type | Tier | Þ | Ç | Γ | ɢ | ⊙ | Ħ | Σ | Ω | Reps |  
+
+|---|------|------|---|---|---|---|---|---|---|---|---|------|  
+
+| I | "Ophidian Venom" | O₂† | 𐑡 | 𐑘 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑕 | 𐑴 | 6 |  
+
+| II | "Amphibian Dermal" | O₂ | 𐑸 | 𐑧 | 𐑔 | 𐑠 | ⊙ | 𐑫 | 𐑳 | 𐑭 | 5 |  
+
+| III | "Arthropod Exoskeletal" | O₂ | 𐑶 | 𐑘 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑳 | 𐑭 | 6 |  
+
+| IV | "Molluscan Harpoon" | O₂† | 𐑰 | 𐑘 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑕 | 𐑴 | 5 |  
+
+| V | "Marine Sessile Defense" | O₁ | 𐑥 | 𐑤 | 𐑔 | 𐑠 | 𐑢 | 𐑫 | 𐑳 | 𐑷 | 6 |  
+
+| VI | "Mammalian Glandular" | O₁ | 𐑰 | 𐑧 | 𐑔 | 𐑠 | 𐑢 | 𐑖 | 𐑙 | 𐑷 | 5 |  
+
+| VII | "Fish Structural" | O₁ | 𐑸 | 𐑧 | 𐑔 | 𐑵 | 𐑢 | 𐑖 | 𐑙 | 𐑷 | 5 |  
+
+| VIII | "Hymenopteran Venom" | O₂ | 𐑡 | 𐑘 | 𐑲 | 𐑵 | ⊙ | 𐑖 | 𐑳 | 𐑭 | 5 |  
+
+| IX | "Annelid Anticoagulant" | O₁ | 𐑰 | 𐑘 | 𐑲 | 𐑠 | 𐑢 | 𐑫 | 𐑕 | 𐑷 | 5 |  
+
+| X | "Cephalopod Ink" | O₂ | 𐑰 | 𐑘 | 𐑔 | 𐑵 | ⊙ | 𐑒 | 𐑕 | 𐑷 | 6 |  
+
+| XI | "Echinoderm" Regenerative" | O₂ | 𐑸 | 𐑧 | 𐑔 | 𐑵 | ⊙ | 𐑫 | 𐑳 | 𐑭 | 7 |  
+
+| XII | "Cnidarian Nematocyst" | O₂† | 𐑥 | 𐑘 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑕 | 𐑴 | 7 |  
+
+| XIII | "Avian Preen" | O₁ | 𐑰 | 𐑧 | 𐑔 | 𐑠 | 𐑢 | 𐑖 | 𐑙 | 𐑷 | 6 |  
+
+| XIV | "Reptilian Oral" | O₂ | 𐑡 | 𐑘 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑳 | 𐑭 | 6 |  
+
 
 **Tier distribution:** 3 × O₂†, 6 × O₂, 5 × O₁. No O₀ and no O_∞ — the same tier boundary as Ars Fungiglyphica confirms the grammar's claim that biological morphology is structurally bounded.
 
