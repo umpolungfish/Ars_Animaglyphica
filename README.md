@@ -52,7 +52,7 @@ Every tuple is algorithmically imscribed via the deterministic procedure. Zero t
 
 ## Canonical Types
 
-| # | Type | Tier | Þ | Ç | Γ | ɢ | ⊙ | Ħ | Σ | Ω | Reps |
+| Num | Type | Tier | Þ | Ç | Γ | ɢ | ⊙ | Ħ | Σ | Ω | Reps |
 |---|------|------|---|---|---|---|---|---|---|---|---|------|
 | I | Ophidian Venom | O₂† | 𐑡 | 𐑘 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑕 | 𐑴 | 6 |
 | II | Amphibian Dermal | O₂ | 𐑸 | 𐑧 | 𐑔 | 𐑠 | ⊙ | 𐑫 | 𐑳 | 𐑭 | 5 |
