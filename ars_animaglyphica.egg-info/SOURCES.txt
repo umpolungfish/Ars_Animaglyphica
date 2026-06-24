@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+ars_anima/__init__.py
+ars_anima/cli.py
+ars_anima/elaborator.py
+ars_anima/types.py
+ars_animaglyphica.egg-info/PKG-INFO
+ars_animaglyphica.egg-info/SOURCES.txt
+ars_animaglyphica.egg-info/dependency_links.txt
+ars_animaglyphica.egg-info/entry_points.txt
+ars_animaglyphica.egg-info/top_level.txt

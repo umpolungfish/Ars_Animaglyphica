@@ -1,0 +1,2 @@
+[console_scripts]
+ag = ars_anima.cli:main
