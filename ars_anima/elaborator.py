@@ -127,7 +127,7 @@ def format_morphology_report(name: str, type_name: str, tier: str,
     lines.append("-" * width)
     lines.append(f"  Animal    : {name}")
     lines.append(f"  Type      : {type_name}  ({tier} tier)")
-    lines.append(f"  Tuple     : <{'·'.join(tuple_vals)}>")
+    lines.append(f"  Tuple     : <{''.join(tuple_vals)}>")
     lines.append("-" * width)
     lines.append("  MORPHOLOGICAL FEATURE  ->  PHARMACEUTICAL MEANING")
     lines.append("-" * width)

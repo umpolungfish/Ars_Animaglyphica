@@ -7,26 +7,26 @@ INVARIANTS (all): D=𐑦  R=𐑾  Phi=𐑯  f=𐑞
 
 ── O₂† (Dagger) TIER (3 types) ──
 
-  Type  1  Ophidian Venom                  <𐑡·𐑘·𐑲·𐑠·⊙·𐑫·𐑕·𐑴>  (6 reps)
-  Type  4  Molluscan Harpoon               <𐑰·𐑘·𐑲·𐑠·⊙·𐑫·𐑕·𐑴>  (5 reps)
-  Type 12  Cnidarian Nematocyst            <𐑥·𐑘·𐑲·𐑠·⊙·𐑫·𐑕·𐑴>  (7 reps)
+  Type  1  Ophidian Venom                  <𐑡𐑘𐑲𐑠⊙𐑫𐑕𐑴>  (6 reps)
+  Type  4  Molluscan Harpoon               <𐑰𐑘𐑲𐑠⊙𐑫𐑕𐑴>  (5 reps)
+  Type 12  Cnidarian Nematocyst            <𐑥𐑘𐑲𐑠⊙𐑫𐑕𐑴>  (7 reps)
 
 ── O₂ TIER (6 types) ──
 
-  Type  2  Amphibian Dermal                <𐑸·𐑧·𐑔·𐑠·⊙·𐑫·𐑳·𐑭>  (5 reps)
-  Type  3  Arthropod Exoskeletal           <𐑶·𐑘·𐑲·𐑠·⊙·𐑫·𐑳·𐑭>  (6 reps)
-  Type  8  Hymenopteran Venom              <𐑡·𐑘·𐑲·𐑵·⊙·𐑖·𐑳·𐑭>  (5 reps)
-  Type 10  Cephalopod Ink                  <𐑰·𐑘·𐑔·𐑵·⊙·𐑒·𐑕·𐑷>  (6 reps)
-  Type 11  Echinoderm Regenerative         <𐑸·𐑧·𐑔·𐑵·⊙·𐑫·𐑳·𐑭>  (7 reps)
-  Type 14  Reptilian Oral                  <𐑡·𐑘·𐑲·𐑠·⊙·𐑫·𐑳·𐑭>  (6 reps)
+  Type  2  Amphibian Dermal                <𐑸𐑧𐑔𐑠⊙𐑫𐑳𐑭>  (5 reps)
+  Type  3  Arthropod Exoskeletal           <𐑶𐑘𐑲𐑠⊙𐑫𐑳𐑭>  (6 reps)
+  Type  8  Hymenopteran Venom              <𐑡𐑘𐑲𐑵⊙𐑖𐑳𐑭>  (5 reps)
+  Type 10  Cephalopod Ink                  <𐑰𐑘𐑔𐑵⊙𐑒𐑕𐑷>  (6 reps)
+  Type 11  Echinoderm Regenerative         <𐑸𐑧𐑔𐑵⊙𐑫𐑳𐑭>  (7 reps)
+  Type 14  Reptilian Oral                  <𐑡𐑘𐑲𐑠⊙𐑫𐑳𐑭>  (6 reps)
 
 ── O₁ TIER (5 types) ──
 
-  Type  5  Marine Sessile Defense          <𐑥·𐑤·𐑔·𐑠·𐑢·𐑫·𐑳·𐑷>  (6 reps)
-  Type  6  Mammalian Glandular             <𐑰·𐑧·𐑔·𐑠·𐑢·𐑖·𐑙·𐑷>  (5 reps)
-  Type  7  Fish Structural                 <𐑸·𐑧·𐑔·𐑵·𐑢·𐑖·𐑙·𐑷>  (5 reps)
-  Type  9  Annelid Anticoagulant           <𐑰·𐑘·𐑲·𐑠·𐑢·𐑫·𐑕·𐑷>  (5 reps)
-  Type 13  Avian Preen                     <𐑰·𐑧·𐑔·𐑠·𐑢·𐑖·𐑙·𐑷>  (6 reps)
+  Type  5  Marine Sessile Defense          <𐑥𐑤𐑔𐑠𐑢𐑫𐑳𐑷>  (6 reps)
+  Type  6  Mammalian Glandular             <𐑰𐑧𐑔𐑠𐑢𐑖𐑙𐑷>  (5 reps)
+  Type  7  Fish Structural                 <𐑸𐑧𐑔𐑵𐑢𐑖𐑙𐑷>  (5 reps)
+  Type  9  Annelid Anticoagulant           <𐑰𐑘𐑲𐑠𐑢𐑫𐑕𐑷>  (5 reps)
+  Type 13  Avian Preen                     <𐑰𐑧𐑔𐑠𐑢𐑖𐑙𐑷>  (6 reps)
 
 ── DISTANCE MATRIX (discriminant mismatches) ──
 
