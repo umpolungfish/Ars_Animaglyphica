@@ -2,7 +2,7 @@
 
 > *The body is the prescription. Venom delivery, glandular architecture, and aposematic display encode pharmaceutical meaning.*
 
-**Ars Animaglyphica** is the animal morphological imscription engine — a structural grammar of medicinal and venomous animals. It reads pharmaceutical meaning directly from animal body plans, specialized organs, and defensive displays using the 12-primitive Imscribing Grammar.
+**Ars Animaglyphica** is the animal morphological imscription engine: a structural grammar of medicinal and venomous animals. It reads pharmaceutical meaning directly from animal body plans, specialized organs, and defensive displays using the 12-primitive Imscribing Grammar.
 
 **Author:** Lando⊗⊙perator  
 **Version:** 0.1.0  
@@ -10,9 +10,19 @@
 
 ---
 
+**What it is.** The animal morphological imscription engine: a structural grammar of medicinal and venomous animals, read through the 12-primitive Imscribing Grammar.
+
+**What it does.** Models 14 canonical animal structural types across 80 representative species, reading venom-delivery topology, glandular architecture, and aposematic display into extraction protocols and compound-class predictions. Every tuple is algorithmically imscribed (none hand-picked) and verified against the Lean formalization.
+
+**Why it matters.** It shows that venom systems, glands, and warning coloration form one coherent structural language that determines pharmaceutical potency: the body is the prescription. It is the animal volume of the Ars trilogy (plants, animals, fungi).
+
+**How to use it.** Install, then use the `aa` CLI to list types, look up an animal, compute structural distance, or elaborate a body plan into a pharmaceutical reading (see Installation and CLI Usage below).
+
+---
+
 ## Overview
 
-A snake's venom delivery system, a frog's skin glands, a cone snail's harpoon, a jellyfish's nematocyst — these are not accidents of evolution. They are structural programs. Ars Animaglyphica models 14 canonical animal structural types spanning **80 representative species** across 3 ouroboricity tiers. The grammar reveals that venom delivery topology, glandular architecture, and aposematic coloration form a coherent structural language — and that this language determines extraction protocols, compound class diversity, and pharmaceutical potency.
+A snake's venom delivery system, a frog's skin glands, a cone snail's harpoon, a jellyfish's nematocyst: none of these are accidents of evolution. They are structural programs. Ars Animaglyphica models 14 canonical animal structural types spanning **80 representative species** across 3 ouroboricity tiers. The grammar reveals that venom delivery topology, glandular architecture, and aposematic coloration form a coherent structural language, and that this language determines extraction protocols, compound class diversity, and pharmaceutical potency.
 
 Every tuple is algorithmically imscribed via the deterministic procedure. Zero tuples are hand-picked. All structural claims are verified against the Lean 4 formalization in `p4rakernel/p4ramill/Imscribing/ArsAnimaglyphica.lean`.
 
@@ -21,28 +31,28 @@ Every tuple is algorithmically imscribed via the deterministic procedure. Zero t
 ## Type Gallery
 
 <p align="center">
-<img src="images/I_Ophidian_Venom.jpg" width="200" alt="I. Ophidian Venom" title="I. Ophidian Venom — Vipera ammodytes"/>
-<img src="images/II_Amphibian_Dermal.jpg" width="200" alt="II. Amphibian Dermal" title="II. Amphibian Dermal — Dendrobates tinctorius"/>
-<img src="images/III_Arthropod_Exoskeletal.jpg" width="200" alt="III. Arthropod Exoskeletal" title="III. Arthropod Exoskeletal — Buthus paris"/>
-<img src="images/IV_Molluscan_Harpoon.jpg" width="200" alt="IV. Molluscan Harpoon" title="IV. Molluscan Harpoon — Conus textile"/>
-<img src="images/V_Marine_Sessile_Defense.jpg" width="200" alt="V. Marine Sessile Defense" title="V. Marine Sessile Defense — Aplysina gerardogreeni"/>
+<img src="images/I_Ophidian_Venom.jpg" width="200" alt="I. Ophidian Venom" title="I. Ophidian Venom: Vipera ammodytes"/>
+<img src="images/II_Amphibian_Dermal.jpg" width="200" alt="II. Amphibian Dermal" title="II. Amphibian Dermal: Dendrobates tinctorius"/>
+<img src="images/III_Arthropod_Exoskeletal.jpg" width="200" alt="III. Arthropod Exoskeletal" title="III. Arthropod Exoskeletal: Buthus paris"/>
+<img src="images/IV_Molluscan_Harpoon.jpg" width="200" alt="IV. Molluscan Harpoon" title="IV. Molluscan Harpoon: Conus textile"/>
+<img src="images/V_Marine_Sessile_Defense.jpg" width="200" alt="V. Marine Sessile Defense" title="V. Marine Sessile Defense: Aplysina gerardogreeni"/>
 </p>
 <p align="center"><sub><b>I.</b> Ophidian Venom &nbsp;|&nbsp; <b>II.</b> Amphibian Dermal &nbsp;|&nbsp; <b>III.</b> Arthropod Exoskeletal &nbsp;|&nbsp; <b>IV.</b> Molluscan Harpoon &nbsp;|&nbsp; <b>V.</b> Marine Sessile Defense</sub></p>
 
 <p align="center">
-<img src="images/VI_Mammalian_Glandular.jpg" width="200" alt="VI. Mammalian Glandular" title="VI. Mammalian Glandular — Ornithorhynchus anatinus"/>
-<img src="images/VII_Fish_Structural.jpg" width="200" alt="VII. Fish Structural" title="VII. Fish Structural — Synanceia nana"/>
-<img src="images/VIII_Hymenopteran_Venom.jpg" width="200" alt="VIII. Hymenopteran Venom" title="VIII. Hymenopteran Venom — Apis mellifera"/>
-<img src="images/IX_Annelid_Anticoagulant.jpg" width="200" alt="IX. Annelid Anticoagulant" title="IX. Annelid Anticoagulant — Hirudo medicinalis"/>
-<img src="images/X_Cephalopod_Ink.jpg" width="200" alt="X. Cephalopod Ink" title="X. Cephalopod Ink — Octopus vulgaris"/>
+<img src="images/VI_Mammalian_Glandular.jpg" width="200" alt="VI. Mammalian Glandular" title="VI. Mammalian Glandular: Ornithorhynchus anatinus"/>
+<img src="images/VII_Fish_Structural.jpg" width="200" alt="VII. Fish Structural" title="VII. Fish Structural: Synanceia nana"/>
+<img src="images/VIII_Hymenopteran_Venom.jpg" width="200" alt="VIII. Hymenopteran Venom" title="VIII. Hymenopteran Venom: Apis mellifera"/>
+<img src="images/IX_Annelid_Anticoagulant.jpg" width="200" alt="IX. Annelid Anticoagulant" title="IX. Annelid Anticoagulant: Hirudo medicinalis"/>
+<img src="images/X_Cephalopod_Ink.jpg" width="200" alt="X. Cephalopod Ink" title="X. Cephalopod Ink: Octopus vulgaris"/>
 </p>
 <p align="center"><sub><b>VI.</b> Mammalian Glandular &nbsp;|&nbsp; <b>VII.</b> Fish Structural &nbsp;|&nbsp; <b>VIII.</b> Hymenopteran Venom &nbsp;|&nbsp; <b>IX.</b> Annelid Anticoagulant &nbsp;|&nbsp; <b>X.</b> Cephalopod Ink</sub></p>
 
 <p align="center">
-<img src="images/XI_Echinoderm_Regenerative.jpg" width="200" alt="XI. Echinoderm Regenerative" title="XI. Echinoderm Regenerative — Thelenota rubralineata"/>
-<img src="images/XII_Cnidarian_Nematocyst.jpg" width="200" alt="XII. Cnidarian Nematocyst" title="XII. Cnidarian Nematocyst — Cyanea capillata"/>
-<img src="images/XIII_Avian_Preen.jpg" width="200" alt="XIII. Avian Preen" title="XIII. Avian Preen — Anas platyrhynchos"/>
-<img src="images/XIV_Reptilian_Oral.jpg" width="200" alt="XIV. Reptilian Oral" title="XIV. Reptilian Oral — Heloderma suspectum"/>
+<img src="images/XI_Echinoderm_Regenerative.jpg" width="200" alt="XI. Echinoderm Regenerative" title="XI. Echinoderm Regenerative: Thelenota rubralineata"/>
+<img src="images/XII_Cnidarian_Nematocyst.jpg" width="200" alt="XII. Cnidarian Nematocyst" title="XII. Cnidarian Nematocyst: Cyanea capillata"/>
+<img src="images/XIII_Avian_Preen.jpg" width="200" alt="XIII. Avian Preen" title="XIII. Avian Preen: Anas platyrhynchos"/>
+<img src="images/XIV_Reptilian_Oral.jpg" width="200" alt="XIV. Reptilian Oral" title="XIV. Reptilian Oral: Heloderma suspectum"/>
 </p>
 <p align="center"><sub><b>XI.</b> Echinoderm Regenerative &nbsp;|&nbsp; <b>XII.</b> Cnidarian Nematocyst &nbsp;|&nbsp; <b>XIII.</b> Avian Preen &nbsp;|&nbsp; <b>XIV.</b> Reptilian Oral</sub></p>
 
@@ -85,7 +95,7 @@ Every tuple is algorithmically imscribed via the deterministic procedure. Zero t
 | XIV | "Reptilian Oral" | O₂ | 𐑡 | 𐑘 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑳 | 𐑭 | 6 |  
 
 
-**Tier distribution:** 3 × O₂†, 6 × O₂, 5 × O₁. No O₀ and no O_∞ — the same tier boundary as Ars Fungiglyphica confirms the grammar's claim that biological morphology is structurally bounded.
+**Tier distribution:** 3 × O₂†, 6 × O₂, 5 × O₁. No O₀ and no O_∞: the same tier boundary as Ars Fungiglyphica confirms the grammar's claim that biological morphology is structurally bounded.
 
 ---
 
@@ -93,10 +103,10 @@ Every tuple is algorithmically imscribed via the deterministic procedure. Zero t
 
 | Primitive | Value | Meaning |
 |-----------|-------|---------|
-| Ð | 𐑦 | Imscriptive dimensionality — the animal body IS its pharmaceutical program |
-| Ř | 𐑾 | Bidirectional coupling — venom/extract delivery and organism response form a feedback loop |
-| Φ | 𐑯 | Full symmetry — all compound classes are present at once; the animal does not selectively deploy |
-| ƒ | 𐑞 | Thermal fidelity — body-temperature biochemistry with thermal noise |
+| Ð | 𐑦 | Imscriptive dimensionality: the animal body IS its pharmaceutical program |
+| Ř | 𐑾 | Bidirectional coupling: venom/extract delivery and organism response form a feedback loop |
+| Φ | 𐑯 | Full symmetry: all compound classes are present at once; the animal does not selectively deploy |
+| ƒ | 𐑞 | Thermal fidelity: body-temperature biochemistry with thermal noise |
 
 These differ from Ars Fungiglyphica's invariants: animals have fully symmetric compound deployment (Phi=𑑯 vs 𑑬 for fungi) and thermal fidelity (f=𑑞 vs 𑑱). The grammar correctly captures the physiological difference between ambient-temperature fungi and warm-blooded (or ambient-active) animals.
 
@@ -123,18 +133,18 @@ The grammar reveals that venom delivery is a structural language:
 
 **Instantaneous bolus deliverers** (C=𑑘):
 - Ophidian (fangs), Molluscan (harpoon), Arthropod (sting/bite), Cnidarian (nematocyst), Hymenopteran (sting), Annelid (bite), Reptilian (grooved teeth), Cephalopod (ink ejection)
-- All at O₂ or O₂† — fast delivery requires self-modeling (φ̂=⊙) because the aposematic display *is* the warning before the bolus
+- All at O₂ or O₂†: fast delivery requires self-modeling (φ̂=⊙) because the aposematic display *is* the warning before the bolus
 
 **Slow activated releasers** (C=𑑧):
 - Amphibian (skin glands), Mammalian (endocrine), Fish (structural), Echinoderm (body wall), Avian (preen gland)
-- Mixed tiers — slow release does not require self-modeling; the structure speaks for itself through the body plan
+- Mixed tiers: slow release does not require self-modeling; the structure speaks for itself through the body plan
 
 **Frozen-order** (C=𑑤):
-- Marine Sessile (sponges, sea squirts) — chemicals stored in specialized cells, released only on tissue disruption
+- Marine Sessile (sponges, sea squirts): chemicals stored in specialized cells, released only on tissue disruption
 
 ---
 
-## Type Lattice — Pairwise Hamming Distances
+## Type Lattice: Pairwise Hamming Distances
 
 ```
       I  II III  IV   V  VI VII VIII  IX   X  XI XII XIII XIV
@@ -172,7 +182,7 @@ Key (type number → name):
 | Cnidarian ≈ Ophidian | 1 | Only T differs (𑑥 bowtie vs 𑑡 network). Both: millisecond delivery, sequential action, eternal chirality, binary processing |
 | Reptilian ≈ Arthropod | 1 | Only T differs (𑑡 network vs 𑑶 box-product). Grooved teeth and exoskeletal venom apparatus are structurally adjacent |
 | Amphibian ≈ Echinoderm | 1 | Only G differs (𐑠 sequential vs 𑑵 broadcast). Dermal granular glands and body-wall saponins differ only in release pattern |
-| Ophidian vs Fish | 8 | Maximum distance. Fast bolus venom (O₂†, 𑑘/𑑲/𐑠/⊙/𐑫/𑑕/𑑴) vs slow structural lipid (O₁, 𑑧/𑑔/𑑵/𑑢/𑑖/𑑙/𑑷) — no shared discriminant primitives beyond invariants |
+| Ophidian vs Fish | 8 | Maximum distance. Fast bolus venom (O₂†, 𑑘/𑑲/𐑠/⊙/𐑫/𑑕/𑑴) vs slow structural lipid (O₁, 𑑧/𑑔/𑑵/𑑢/𑑖/𑑙/𑑷): no shared discriminant primitives beyond invariants |
 
 ---
 
@@ -196,11 +206,11 @@ The grammar groups by structural function across kingdoms. **Amphibian↔Gilled 
 ## Lean 4 Formalization
 
 ```
-p4rakernel/p4ramill/Imscribing/ArsAnimaglyphica.lean  — 14 defs, 4 invariant theorems (decide), 11 distance theorems (native_decide)
-p4rakernel/p4ramill/Imscribing/ArsCrossDomain.lean    — 14 cross-domain distance theorems (native_decide)
+p4rakernel/p4ramill/Imscribing/ArsAnimaglyphica.lean : 14 defs, 4 invariant theorems (decide), 11 distance theorems (native_decide)
+p4rakernel/p4ramill/Imscribing/ArsCrossDomain.lean   : 14 cross-domain distance theorems (native_decide)
 ```
 
-Build: `lake build` — 763 jobs, 0 errors. All invariant and distance theorems are auto-proved.
+Build: `lake build`: 763 jobs, 0 errors. All invariant and distance theorems are auto-proved.
 
 ---
 
@@ -285,26 +295,26 @@ All type photographs sourced from **Wikimedia Commons** under free licenses:
 
 | Type | Source | License | Photographer |
 |------|--------|---------|-------------|
-| I. Ophidian Venom | *Vipera ammodytes* | CC BY-SA 4.0 | — |
-| II. Amphibian Dermal | *Dendrobates tinctorius* | CC BY-SA 4.0 | — |
-| III. Arthropod Exoskeletal | *Buthus paris* | CC BY-SA 2.0 | — |
-| IV. Molluscan Harpoon | *Conus textile* | CC BY-SA 4.0 | — |
+| I. Ophidian Venom | *Vipera ammodytes* | CC BY-SA 4.0 |: |
+| II. Amphibian Dermal | *Dendrobates tinctorius* | CC BY-SA 4.0 |: |
+| III. Arthropod Exoskeletal | *Buthus paris* | CC BY-SA 2.0 |: |
+| IV. Molluscan Harpoon | *Conus textile* | CC BY-SA 4.0 |: |
 | V. Marine Sessile Defense | *Aplysina gerardogreeni* | CC BY-SA 4.0 | Diego Delso |
-| VI. Mammalian Glandular | *Ornithorhynchus anatinus* | CC BY-SA 4.0 | — |
+| VI. Mammalian Glandular | *Ornithorhynchus anatinus* | CC BY-SA 4.0 |: |
 | VII. Fish Structural | *Synanceia nana* | CC BY-SA 4.0 | Diego Delso |
-| VIII. Hymenopteran Venom | *Apis mellifera* | CC BY-SA 2.5 | — |
-| IX. Annelid Anticoagulant | *Hirudo medicinalis* | CC BY 4.0 | — |
+| VIII. Hymenopteran Venom | *Apis mellifera* | CC BY-SA 2.5 |: |
+| IX. Annelid Anticoagulant | *Hirudo medicinalis* | CC BY 4.0 |: |
 | X. Cephalopod Ink | *Octopus vulgaris* | CC BY-SA 4.0 | Diego Delso |
-| XI. Echinoderm Regenerative | *Thelenota rubralineata* | CC BY-SA 2.0 | — |
-| XII. Cnidarian Nematocyst | *Cyanea capillata* | CC BY 2.0 | — |
-| XIII. Avian Preen | *Anas platyrhynchos* | CC BY-SA 4.0 | — |
-| XIV. Reptilian Oral | *Heloderma suspectum* | CC0 | — |
+| XI. Echinoderm Regenerative | *Thelenota rubralineata* | CC BY-SA 2.0 |: |
+| XII. Cnidarian Nematocyst | *Cyanea capillata* | CC BY 2.0 |: |
+| XIII. Avian Preen | *Anas platyrhynchos* | CC BY-SA 4.0 |: |
+| XIV. Reptilian Oral | *Heloderma suspectum* | CC0 |: |
 
 ---
 
 ## The Name
 
-**Animaglyphica** — from Latin *anima* (animal, soul, breath) + Greek *γλυφική* (glyphic, the art of carving signs). The animal carves its pharmaceutical meaning into its body plan, venom apparatus, and aposematic displays. The grammar reads what the animal writes in its own flesh.
+**Animaglyphica**: from Latin *anima* (animal, soul, breath) + Greek *γλυφική* (glyphic, the art of carving signs). The animal carves its pharmaceutical meaning into its body plan, venom apparatus, and aposematic displays. The grammar reads what the animal writes in its own flesh.
 
 ---
 
