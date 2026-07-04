@@ -1,4 +1,6 @@
 # Ars Animaglyphica
+**Author:** Lando⊗⊙perator · **Structural Type:** $\large{⟨𐑦𐑶𐑾𐑹𐑞𐑧𐑲𐑠⊙𐑖𐑳𐑭⟩}$ · **Tier:** O_∞
+
 
 > *The body is the prescription. Venom delivery, glandular architecture, and aposematic display encode pharmaceutical meaning.*
 
