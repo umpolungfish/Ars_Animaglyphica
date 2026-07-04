@@ -248,7 +248,7 @@ Ars_Animaglyphica/
 ## Installation
 
 ```bash
-cd /home/mrnob0dy666/imsgct/Ars_Animaglyphica
+cd imsgct/Ars_Animaglyphica
 pip install -e .
 ```
 
