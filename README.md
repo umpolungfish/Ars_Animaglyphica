@@ -4,14 +4,12 @@
 [![IG Tier](https://img.shields.io/badge/IG-O%E2%82%82-blueviolet)](https://github.com/badges/shields)
 [![μ∘δ=id](https://img.shields.io/badge/%CE%BC%E2%88%98%CE%B4%3Did-open-critical)](https://github.com/badges/shields)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/badges/shields)
-**Author:** Lando⊗⊙perator · **Structural Type:** $\large{⟨𐑦𐑶𐑾𐑹𐑞𐑧𐑲𐑠⊙𐑖𐑳𐑭⟩}$ · **Tier:** O_∞
-
+**Author:** Lando⊗⊙perator · **Structural Type:** $\large{⟨𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭⟩}$ · **Tier:** O_∞
 
 > *The body is the prescription. Venom delivery, glandular architecture, and aposematic display encode pharmaceutical meaning.*
 
 **Ars Animaglyphica** is the animal morphological imscription engine: a structural grammar of medicinal and venomous animals. It reads pharmaceutical meaning directly from animal body plans, specialized organs, and defensive displays using the 12-primitive Imscribing Grammar.
 
-**Author:** Lando⊗⊙perator  
 **Version:** 0.1.0  
 **Tier Range:** O₁ – O₂† (biological morphology is tier-bounded)
 
@@ -100,7 +98,6 @@ Every tuple is algorithmically imscribed via the deterministic procedure. Zero t
 | XIII | "Avian Preen" | O₁ | 𐑰 | 𐑧 | 𐑔 | 𐑠 | 𐑢 | 𐑖 | 𐑙 | 𐑷 | 6 |  
 
 | XIV | "Reptilian Oral" | O₂ | 𐑡 | 𐑘 | 𐑲 | 𐑠 | ⊙ | 𐑫 | 𐑳 | 𐑭 | 6 |  
-
 
 **Tier distribution:** 3 × O₂†, 6 × O₂, 5 × O₁. No O₀ and no O_∞: the same tier boundary as Ars Fungiglyphica confirms the grammar's claim that biological morphology is structurally bounded.
 
