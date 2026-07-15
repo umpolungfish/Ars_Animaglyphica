@@ -10,7 +10,7 @@ Four invariants (fixed for all medicinal animals):
 Eight discriminant primitives define the type taxonomy:
   T (body plan topology), C (metabolic/extraction kinetics),
   Gamma (tissue specialization), G (compound delivery mode),
-  Phi_c (criticality / aposematic self-modeling), H (chirality),
+  ⊙ (criticality / aposematic self-modeling), H (chirality),
   Sigma (compound class diversity), Omega (processing cycles)
 
 Author: Lando⊗⊙perator

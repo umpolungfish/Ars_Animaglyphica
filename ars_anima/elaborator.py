@@ -65,7 +65,7 @@ _COUPLING = {
            "No temporal ordering — pattern recognition delivery."),
 }
 
-# Phi_c (Criticality): aposematic self-modeling
+# ⊙ (Criticality): aposematic self-modeling
 _CRITICALITY = {
     "⊙": ("Aposematic self-modeling", "Warning coloration IS the self-report. "
           "Yellow-black, red-black, or blue-yellow banding encodes potency. "
@@ -100,7 +100,7 @@ _WINDING = {
           "for traditional use."),
 }
 
-PRIM_KEYS = ["D","T","R","Phi","f","C","Gamma","G","Phi_c","H","Sigma","Omega"]
+PRIM_KEYS = ["D","T","R","Phi","f","C","Gamma","G","⊙","H","Sigma","Omega"]
 
 
 def elaborate_morphology(tuple_vals: list[str]) -> dict:
@@ -136,7 +136,7 @@ def format_morphology_report(name: str, type_name: str, tier: str,
         ("Kinetics (C)",        morphology["kinetics"]),
         ("Granularity (Gamma)", morphology["granularity"]),
         ("Coupling (G)",        morphology["coupling"]),
-        ("Criticality (Phi_c)", morphology["criticality"]),
+        ("Criticality (⊙)", morphology["criticality"]),
         ("Chirality (H)",       morphology["chirality"]),
         ("Winding (Omega)",     morphology["winding"]),
     ]

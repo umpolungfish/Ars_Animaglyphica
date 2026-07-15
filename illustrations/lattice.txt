@@ -2,7 +2,7 @@ ARS ANIMAGLYPHICA — STRUCTURAL TYPE LATTICE (14 types)
 ==============================================================================
 
 TIER LEGEND:  O2_dagger = O₂†  |  O2 = O₂  |  O1 = O₁
-DISCRIMINANT PRIMITIVES: T | C | Gamma | G | Phi_c | H | Sigma | Omega
+DISCRIMINANT PRIMITIVES: T | C | Gamma | G | ⊙ | H | Sigma | Omega
 INVARIANTS (all): D=𐑦  R=𐑾  Phi=𐑯  f=𐑞
 
 ── O₂† (Dagger) TIER (3 types) ──

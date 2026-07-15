@@ -33,7 +33,7 @@
       digestive enzymes (hours). The sequence IS the pharmaceutical
       program.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Aposematic self-modeling
       Warning coloration IS the self-report. Yellow-black, red-black,
       or blue-yellow banding encodes potency. The animal advertises
@@ -94,7 +94,7 @@
       digestive enzymes (hours). The sequence IS the pharmaceutical
       program.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Aposematic self-modeling
       Warning coloration IS the self-report. Yellow-black, red-black,
       or blue-yellow banding encodes potency. The animal advertises
@@ -154,7 +154,7 @@
       digestive enzymes (hours). The sequence IS the pharmaceutical
       program.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Aposematic self-modeling
       Warning coloration IS the self-report. Yellow-black, red-black,
       or blue-yellow banding encodes potency. The animal advertises
@@ -214,7 +214,7 @@
       digestive enzymes (hours). The sequence IS the pharmaceutical
       program.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Aposematic self-modeling
       Warning coloration IS the self-report. Yellow-black, red-black,
       or blue-yellow banding encodes potency. The animal advertises
@@ -274,7 +274,7 @@
       digestive enzymes (hours). The sequence IS the pharmaceutical
       program.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Sub-critical / cryptic
       No aposematic signal. The exterior gives no pharmaceutical
       self-report. Standardize to marker compound. Protocol timing
@@ -333,7 +333,7 @@
       digestive enzymes (hours). The sequence IS the pharmaceutical
       program.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Sub-critical / cryptic
       No aposematic signal. The exterior gives no pharmaceutical
       self-report. Standardize to marker compound. Protocol timing
@@ -391,7 +391,7 @@
       histamine: the cocktail IS the message. No temporal ordering —
       pattern recognition delivery.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Sub-critical / cryptic
       No aposematic signal. The exterior gives no pharmaceutical
       self-report. Standardize to marker compound. Protocol timing
@@ -449,7 +449,7 @@
       histamine: the cocktail IS the message. No temporal ordering —
       pattern recognition delivery.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Aposematic self-modeling
       Warning coloration IS the self-report. Yellow-black, red-black,
       or blue-yellow banding encodes potency. The animal advertises
@@ -507,7 +507,7 @@
       digestive enzymes (hours). The sequence IS the pharmaceutical
       program.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Sub-critical / cryptic
       No aposematic signal. The exterior gives no pharmaceutical
       self-report. Standardize to marker compound. Protocol timing
@@ -566,7 +566,7 @@
       histamine: the cocktail IS the message. No temporal ordering —
       pattern recognition delivery.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Aposematic self-modeling
       Warning coloration IS the self-report. Yellow-black, red-black,
       or blue-yellow banding encodes potency. The animal advertises
@@ -623,7 +623,7 @@
       histamine: the cocktail IS the message. No temporal ordering —
       pattern recognition delivery.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Aposematic self-modeling
       Warning coloration IS the self-report. Yellow-black, red-black,
       or blue-yellow banding encodes potency. The animal advertises
@@ -683,7 +683,7 @@
       digestive enzymes (hours). The sequence IS the pharmaceutical
       program.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Aposematic self-modeling
       Warning coloration IS the self-report. Yellow-black, red-black,
       or blue-yellow banding encodes potency. The animal advertises
@@ -743,7 +743,7 @@
       digestive enzymes (hours). The sequence IS the pharmaceutical
       program.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Sub-critical / cryptic
       No aposematic signal. The exterior gives no pharmaceutical
       self-report. Standardize to marker compound. Protocol timing
@@ -801,7 +801,7 @@
       digestive enzymes (hours). The sequence IS the pharmaceutical
       program.
 
-  Criticality (Phi_c)
+  Criticality (⊙)
     -> Aposematic self-modeling
       Warning coloration IS the self-report. Yellow-black, red-black,
       or blue-yellow banding encodes potency. The animal advertises
