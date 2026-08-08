@@ -1,2 +1,2 @@
 [console_scripts]
-ag = ars_anima.cli:main
+ars-anima = ars_anima.cli:main

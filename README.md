@@ -17,7 +17,7 @@
 
 **Why it matters.** It shows that venom systems, glands, and warning coloration form one coherent structural language that determines pharmaceutical potency: the body is the prescription. It is the animal volume of the Ars trilogy (plants, animals, fungi).
 
-**How to use it.** Install, then use the `aa` CLI to list types, look up an animal, compute structural distance, or elaborate a body plan into a pharmaceutical reading (see Installation and CLI Usage below).
+**How to use it.** Install, then use the `ars-anima` CLI to list types, look up an animal, compute structural distance, or elaborate a body plan into a pharmaceutical reading (see Installation and CLI Usage below).
 
 ---
 
@@ -219,7 +219,7 @@ Build: `lake build`: 763 jobs, 0 errors. All invariant and distance theorems are
 ```
 Ars_Animaglyphica/
 ├── README.md                           ← This file
-├── pyproject.toml                      ← Package metadata; CLI entry: `aa`
+├── pyproject.toml                      ← Package metadata; CLI entry: `ars-anima`
 ├── expand_types.py                     ← Algorithmic type expansion (9→14)
 ├── images/                             ← 14 type photographs (Wikimedia Commons)
 │   ├── I_Ophidian_Venom.jpg
@@ -256,35 +256,35 @@ Requires Python ≥ 3.10. No external dependencies beyond the standard library.
 
 ## CLI Usage
 
-All commands via the `aa` entry point:
+All commands via the `ars-anima` entry point:
 
 ```bash
 # List all 14 canonical types
-aa types
+ars-anima types
 
 # Show a specific type
-aa type I
-aa type "Cnidarian Nematocyst"
-aa type 12
+ars-anima type I
+ars-anima type "Cnidarian Nematocyst"
+ars-anima type 12
 
 # Look up a specific animal
-aa animal chironex_fleckeri
-aa animal phyllobates_terribilis
+ars-anima animal chironex_fleckeri
+ars-anima animal phyllobates_terribilis
 
 # Show the structural distance between two types
-aa distance "Ophidian Venom" "Fish Structural"
-aa distance I VII
+ars-anima distance "Ophidian Venom" "Fish Structural"
+ars-anima distance I VII
 
 # List all representative animals (or filter by type)
-aa list
-aa list IV
+ars-anima list
+ars-anima list IV
 
 # Full morphological → pharmaceutical elaboration
-aa morphology conus_geographus
-aa morphology dendrobates_tinctorius
+ars-anima morphology conus_geographus
+ars-anima morphology dendrobates_tinctorius
 
 # Show the type lattice with pairwise Hamming distances
-aa lattice
+ars-anima lattice
 ```
 
 ---
